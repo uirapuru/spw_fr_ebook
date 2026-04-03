@@ -1,6 +1,8 @@
 # Moździerz samobieżny 2S40 Floks
 ### 2S40 Floks Self-Propelled Mortar | 2С40 «Флокс»
 
+![2S40 Floks](../images/artyleria_samobiezna/2s40-floks_1.jpg)
+
 ---
 
 ## Opis

@@ -79,6 +79,5 @@ for number, file_name, artist, license_str, url in entries:
     out.append(f'Zdj. {number}. `{file_name}`, **autor**: {artist}, lic. {license_str},')
     out.append(f'**url**: [Wikimedia Commons](<{url}>)')
     out.append('')
-out.extend(['---', '', f'*Łącznie: {len(entries)} grafik.*'])
 path.write_text('\n'.join(out) + '\n', encoding='utf-8')
 print(f'Rebuilt {len(entries)} entries')

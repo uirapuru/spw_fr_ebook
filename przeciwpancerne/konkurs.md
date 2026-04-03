@@ -1,6 +1,8 @@
 # Przeciwpancerny pocisk kierowany 9M113 Konkurs
 ### 9M113 Konkurs Anti-Tank Guided Missile | 9М113 «Конкурс»
 
+![9M113 Konkurs](../images/przeciwpancerne/konkurs_1.jpg)
+
 ---
 
 ## Opis

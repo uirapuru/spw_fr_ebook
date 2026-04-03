@@ -1,6 +1,8 @@
 # Lekki ppk 9K115 Metis
 ### 9K115 Metis Anti-Tank Guided Missile | 9К115 «Метис»
 
+![9K115 Metis](../images/przeciwpancerne/metis_1.jpg)
+
 ---
 
 ## Opis

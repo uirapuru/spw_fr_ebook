@@ -4,7 +4,40 @@
 
 ---
 
-## 1. Czołgi
+## 1. Lotnictwo
+
+### Samoloty bojowe
+
+- [Su-24M Fencer — Samolot szturmowy dalekiego zasięgu](lotnictwo/su-24m.md)
+- [Su-25 Frogfoot — Samolot szturmowy bliskiego wsparcia](lotnictwo/su-25.md)
+- [Su-27 Flanker — Myśliwiec przewagi powietrznej](lotnictwo/su-27.md)
+- [Su-34 Fullback — Myśliwiec-bombowiec](lotnictwo/su-34.md)
+- [Su-35S Flanker-E — Wielozadaniowy myśliwiec ciężki](lotnictwo/su-35s.md)
+- [MiG-29 Fulcrum — Lekki myśliwiec wielozadaniowy](lotnictwo/mig-29.md)
+- [MiG-31K Foxhound — Przechwytywacz / nosiciel Kindżała](lotnictwo/mig-31k.md)
+- [Tu-22M3 Backfire — Bombowiec strategiczny](lotnictwo/tu-22m3.md)
+- [Tu-95MS Bear — Strategiczny bombowiec rakietowy (turbośmigłowy)](lotnictwo/tu-95ms.md)
+- [Tu-160 Blackjack — Strategiczny bombowiec naddźwiękowy](lotnictwo/tu-160.md)
+
+### Śmigłowce
+
+- [Mi-8 Hip — Wielozadaniowy śmigłowiec transportowy](lotnictwo/mi-8.md)
+- [Mi-24 Hind — Śmigłowiec szturmowy](lotnictwo/mi-24.md)
+- [Mi-26 Halo — Ciężki śmigłowiec transportowy](lotnictwo/mi-26.md)
+- [Mi-28 Hawoc — Śmigłowiec szturmowy](lotnictwo/mi-28.md)
+- [Mi-35M Hind-E — Wielozadaniowy śmigłowiec bojowy](lotnictwo/mi-35m.md)
+- [Ka-52 Aligator — Śmigłowiec szturmowy (koaksjalny)](lotnictwo/ka-52.md)
+
+## 2. Drony bojowe (BSP)
+
+- [Geran-2 / Shahed-136 — Dron kamikaze dalekiego zasięgu](drony_bojowe/geran-2.md)
+- [Geran-1 / Shahed-131 — Mały dron kamikaze](drony_bojowe/geran-1.md)
+- [Lancet — Precyzyjny dron kamikaze (loitering munition)](drony_bojowe/lancet.md)
+- [Orlan-10 — Taktyczny dron rozpoznawczy](drony_bojowe/orlan-10.md)
+- [Orlan-30 — Dron rozpoznawczy z naprowadzaniem laserowym](drony_bojowe/orlan-30.md)
+- [Gerbera — Wielozadaniowy dron kamikaze małego zasięgu](drony_bojowe/gerbera.md)
+
+## 3. Czołgi
 
 - [T-55 — Czołg średni T-55](czolgi/t-55.md)
 - [T-62 — Czołg podstawowy T-62](czolgi/t-62.md)
@@ -14,27 +47,27 @@
 - [T-90 — Czołg podstawowy T-90](czolgi/t-90.md)
 - [2S25 Sprut-SD — Niszczyciel czołgów (lekki czołg desantowy)](czolgi/2s25-sprut.md)
 
-## 2. Bojowe Wozy Desantowe (BWD)
+## 4. Bojowe Wozy Desantowe (BWD)
 
 - [BMD-1 — Bojowy wóz desantowy BMD-1](bwd/bmd-1.md)
 - [BMD-2 — Bojowy wóz desantowy BMD-2](bwd/bmd-2.md)
 - [BMD-3 — Bojowy wóz desantowy BMD-3](bwd/bmd-3.md)
 - [BMD-4 — Bojowy wóz desantowy BMD-4](bwd/bmd-4.md)
 
-## 3. Bojowe Wozy Piechoty (BWP)
+## 5. Bojowe Wozy Piechoty (BWP)
 
 - [BMP-1 — Bojowy wóz piechoty BMP-1](bwp/bmp-1.md)
 - [BMP-2 — Bojowy wóz piechoty BMP-2](bwp/bmp-2.md)
 - [BMP-3 — Bojowy wóz piechoty BMP-3](bwp/bmp-3.md)
 
-## 4. Transportery opancerzone (APC)
+## 6. Transportery opancerzone (APC)
 
 - [MT-LB — Wielozadaniowy transporter opancerzony](apc/mt-lb.md)
 - [BTR-80 — Transporter opancerzony BTR-80](apc/btr-80.md)
 - [BTR-90 — Transporter opancerzony BTR-90](apc/btr-90.md)
 - [GAZ Tigr (MRAP) — Pojazd odporny na miny i zasadzki](apc/mrap.md)
 
-## 5. Artyleria samobieżna
+## 7. Artyleria samobieżna
 
 - [2S19 Msta-S — 152 mm armatohaubica samobieżna](artyleria_samobiezna/2s19-msta-s.md)
 - [2S1 Goździk — 122 mm haubica samobieżna](artyleria_samobiezna/2s1-gvozdika.md)
@@ -43,9 +76,9 @@
 - [2S9 Nona — 120 mm moździerz samobieżny](artyleria_samobiezna/2s9-nona.md)
 - [2S23 Nona-SVK — 120 mm moździerz samobieżny kołowy](artyleria_samobiezna/2s23-nona-svk.md)
 - [2S4 Tulipan — 240 mm moździerz samobieżny](artyleria_samobiezna/2s4-tyulpan.md)
-- [2S40 Floks — 120 mm moździerz samobieżny](artyleria_samobiezna/2s40-floks.md)
+- [2S40 Floks — 120 mm moździerz samobieżny kołowy](artyleria_samobiezna/2s40-floks.md)
 
-## 6. Artyleria holowana
+## 8. Artyleria holowana
 
 - [D-30 — 122 mm haubica holowana](artyleria_holowana/d-30.md)
 - [M-30 — 122 mm haubica holowana M1938](artyleria_holowana/m-30.md)
@@ -59,7 +92,7 @@
 - [2B14 Podnos — 82 mm moździerz piechoty](artyleria_holowana/2b14-podnos.md)
 - [2S12 Sani — 120 mm ciężki moździerz holowany](artyleria_holowana/2s12-sani.md)
 
-## 7. Systemy przeciwlotnicze
+## 9. Systemy przeciwlotnicze
 
 - [ZU-23-2 — Holowane działko przeciwlotnicze 23 mm](przeciwlotnicze/zu-23-2.md)
 - [ZSU-23-4 Szyłka — Samobieżne działko przeciwlotnicze 23 mm](przeciwlotnicze/zsu-23-4.md)
@@ -74,7 +107,7 @@
 - [9K38 Igła — Przenośny MANPADS](przeciwlotnicze/igla.md)
 - [9K333 Werba — Przenośny MANPADS nowej generacji](przeciwlotnicze/verba.md)
 
-## 8. Przeciwpancerne pociski kierowane (ATGM)
+## 10. Przeciwpancerne pociski kierowane (ATGM)
 
 - [9K111 Fagot — Przeciwpancerny pocisk kierowany](przeciwpancerne/fagot.md)
 - [9M113 Konkurs — Przeciwpancerny pocisk kierowany](przeciwpancerne/konkurs.md)
@@ -82,15 +115,7 @@
 - [9K115-2 Metis-M — Lekki ppk](przeciwpancerne/metis-m.md)
 - [9M133 Kornet — Przeciwpancerny pocisk kierowany](przeciwpancerne/kornet.md)
 
-## 9. Lotnictwo
-
-- [Mi-24 Hind — Śmigłowiec szturmowy](lotnictwo/mi-24.md)
-- [Mi-28 Hawoc — Śmigłowiec szturmowy](lotnictwo/mi-28.md)
-- [Ka-52 Aligator — Śmigłowiec szturmowy](lotnictwo/ka-52.md)
-- [Su-25 Frogfoot — Samolot szturmowy](lotnictwo/su-25.md)
-- [Su-27 Flanker — Myśliwiec przewagi powietrznej](lotnictwo/su-27.md)
-
-## 10. Karabiny szturmowe
+## 11. Karabiny szturmowe
 
 - [AK-74 — Karabin szturmowy 5,45 mm](karabiny/ak-74.md)
 - [AKS-74U Ksyucha — Skrócony karabin szturmowy](karabiny/aks-74u.md)
@@ -103,7 +128,7 @@
 - [SR-3 Wihr — Kompaktowy karabin szturmowy 9 mm](karabiny/sr-3.md)
 - [AS Val — Tłumiony karabin szturmowy 9 mm](karabiny/as-val.md)
 
-## 11. Karabiny maszynowe
+## 12. Karabiny maszynowe
 
 - [RPK — Ręczny karabin maszynowy 7,62 mm](karabiny_maszynowe/rpk.md)
 - [RPL-20 — Ręczny karabin maszynowy nowej generacji](karabiny_maszynowe/rpl-20.md)
@@ -113,7 +138,7 @@
 - [NSW Utes — Ciężki karabin maszynowy 12,7 mm](karabiny_maszynowe/nsv.md)
 - [Kord — Ciężki karabin maszynowy 12,7 mm](karabiny_maszynowe/kord.md)
 
-## 12. Karabiny snajperskie
+## 13. Karabiny snajperskie
 
 - [VSS Wintorez — Tłumiony karabin snajperski 9 mm](karabiny_snajperskie/vss-vintorez.md)
 - [SVD Dragunow — Karabin snajperski 7,62 mm](karabiny_snajperskie/svd.md)
@@ -123,7 +148,7 @@
 - [OSV-96 — Wielkokalibrowy karabin snajperski](karabiny_snajperskie/osv-96.md)
 - [Lobaev SVLK-14S Sumrak — Karabin snajperski dalekiego zasięgu](karabiny_snajperskie/lobaev.md)
 
-## 13. RPG i wyrzutnie rakietowe
+## 14. RPG i wyrzutnie rakietowe
 
 - [RPG-7 — Granatnik przeciwpancerny wielokrotnego użytku](rpg_wyrzutnie/rpg-7.md)
 - [RPG-18 Mucha — Jednorazowy granatnik 64 mm](rpg_wyrzutnie/rpg-18.md)
@@ -137,7 +162,7 @@
 - [RPO-A Szmiel — Wyrzutnia termobaryczna 93 mm](rpg_wyrzutnie/shmel.md)
 - [MRO-A Bur — Lekka wyrzutnia termobaryczna 72,5 mm](rpg_wyrzutnie/bur.md)
 
-## 14. Wyrzutnie granatów
+## 15. Wyrzutnie granatów
 
 - [GP-25 Kostior — Nasadkowy granatnik podlufowy](wyrzutnie_granatow/gp-25.md)
 - [GP-30 Obuwka — Nasadkowy granatnik podlufowy](wyrzutnie_granatow/gp-30.md)
@@ -147,7 +172,7 @@
 - [AGS-40 Bałkan — Automatyczny granatnik stanowiskowy 40 mm](wyrzutnie_granatow/agk-40.md)
 - [GM-94 — Rewolwerowy granatnik pump-action 43 mm](wyrzutnie_granatow/gm-94.md)
 
-## 15. Pistolety i pistolety maszynowe
+## 16. Pistolety i pistolety maszynowe
 
 - [PM Makarow — Pistolet 9×18 mm](pistolety_i_pm/pm.md)
 - [TT Tokariew — Pistolet 7,62 mm](pistolety_i_pm/tt.md)
@@ -165,7 +190,7 @@
 - [SPP-1M — Pistolet podwodny 4,5 mm](pistolety_i_pm/spp-1m.md)
 - [APS podwodny — Karabinek podwodny 5,66 mm](pistolety_i_pm/sps-underwater.md)
 
-## 16. Granaty ręczne
+## 17. Granaty ręczne
 
 - [F-1 Limonka — Granat defensywny odłamkowy](granaty_reczne/f-1.md)
 - [RGD-5 — Granat ofensywny odłamkowy](granaty_reczne/rgd-5.md)
@@ -174,7 +199,7 @@
 - [RKG-3 — Granat przeciwpancerny kumulacyjny](granaty_reczne/rkg-3.md)
 - [VOG-25 — Nabój do granatnika podlufowego 40 mm](granaty_reczne/vog-25.md)
 
-## 17. Miny
+## 18. Miny
 
 - [PMN — Mina nacisgowa przeciwpiechotna](miny/pmn.md)
 - [PMN-2 — Mina nacisgowa przeciwpiechotna (plastikowa)](miny/pmn-2.md)
@@ -194,7 +219,7 @@
 
 ## Dodatek: Źródła grafik
 
-- [Źródła grafik](zrodla_grafik.md) — lista wszystkich 143 obrazów z autorem, licencją i odnośnikiem do Wikimedia Commons
+- [Źródła grafik](zrodla_grafik.md) — lista wszystkich obrazów z autorem, licencją i odnośnikiem do Wikimedia Commons
 
 ---
 

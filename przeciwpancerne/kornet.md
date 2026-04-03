@@ -1,6 +1,8 @@
 # Przeciwpancerny pocisk kierowany 9M133 Kornet
 ### 9M133 Kornet Anti-Tank Guided Missile | 9М133 «Корнет»
 
+![9M133 Kornet](../images/przeciwpancerne/kornet_1.jpg)
+
 ---
 
 ## Opis

@@ -120,6 +120,10 @@ KNOWN_COMMONS = {
     "apc/mt-lb_1.jpg": "RWS2017-37.jpg",
     # czolgi (t-62m corrected in v1.1)
     "czolgi/t-62m_1.jpg": "T-62M_-_Army-2023-14.jpg",
+    # przeciwlotnicze (Strela-3 = SA-14 Gremlin, WP article has no pageimage)
+    "przeciwlotnicze/strela-3_1.jpg": "SA-14_missile_and_launch_tube.jpg",
+    # karabiny (AK-12 article has no pageimage)
+    "karabiny/ak-12_1.jpg": "AK-12_-_Army-2023-12.jpg",
 }
 
 # ── Wikipedia article → Commons filename (via pageimages API, piprop=name) ──
@@ -177,26 +181,52 @@ WIKI_ARTICLES = {
     "karabiny/ak-74_1.jpg": "AK-74",
     "karabiny/akm_1.jpg":   "AKM",
     # lotnictwo
-    "lotnictwo/ka-52_1.jpg": "Kamov Ka-52",
-    "lotnictwo/ka-52_2.jpg": ("Kamov Ka-52", 1),
-    "lotnictwo/mi-24_1.jpg": "Mil Mi-24",
-    "lotnictwo/mi-24_2.jpg": ("Mil Mi-24", 1),
-    "lotnictwo/mi-28_1.jpg": "Mil Mi-28",
-    "lotnictwo/mi-28_2.jpg": ("Mil Mi-28", 1),
-    "lotnictwo/su-25_1.jpg": "Sukhoi Su-25",
-    "lotnictwo/su-25_2.jpg": ("Sukhoi Su-25", 1),
-    "lotnictwo/su-27_1.jpg": "Sukhoi Su-27",
-    "lotnictwo/su-27_2.jpg": ("Sukhoi Su-27", 1),
+    "lotnictwo/ka-52_1.jpg":   "Kamov Ka-52",
+    "lotnictwo/ka-52_2.jpg":   ("Kamov Ka-52", 1),
+    "lotnictwo/mi-24_1.jpg":   "Mil Mi-24",
+    "lotnictwo/mi-24_2.jpg":   ("Mil Mi-24", 1),
+    "lotnictwo/mi-28_1.jpg":   "Mil Mi-28",
+    "lotnictwo/mi-28_2.jpg":   ("Mil Mi-28", 1),
+    "lotnictwo/su-25_1.jpg":   "Sukhoi Su-25",
+    "lotnictwo/su-25_2.jpg":   ("Sukhoi Su-25", 1),
+    "lotnictwo/su-27_1.jpg":   "Sukhoi Su-27",
+    "lotnictwo/su-27_2.jpg":   ("Sukhoi Su-27", 1),
+    # lotnictwo — samoloty (dodane v1.2)
+    "lotnictwo/su-24m_1.jpg":  "Sukhoi Su-24",
+    "lotnictwo/su-34_1.jpg":   "Sukhoi Su-34",
+    "lotnictwo/su-35s_1.jpg":  "Sukhoi Su-35",
+    "lotnictwo/mig-29_1.jpg":  "Mikoyan MiG-29",
+    "lotnictwo/mig-31k_1.jpg": "Mikoyan MiG-31",
+    "lotnictwo/tu-22m3_1.jpg": "Tupolev Tu-22M",
+    "lotnictwo/tu-95ms_1.jpg": "Tupolev Tu-95",
+    "lotnictwo/tu-160_1.jpg":  "Tupolev Tu-160",
+    # lotnictwo — śmigłowce (dodane v1.2)
+    "lotnictwo/mi-8_1.jpg":    "Mil Mi-8",
+    "lotnictwo/mi-35m_1.jpg":  "Mil Mi-35",
+    "lotnictwo/mi-26_1.jpg":   "Mil Mi-26",
+    # drony bojowe (dodane v1.2)
+    "drony_bojowe/geran-2_1.jpg":  "HESA Shahed 136",
+    "drony_bojowe/geran-1_1.jpg":  "HESA Shahed 131",
+    "drony_bojowe/lancet_1.jpg":   "ZALA Lancet",
+    "drony_bojowe/orlan-10_1.jpg": "STC Orlan-10",
+    "drony_bojowe/orlan-30_1.jpg": "STC Orlan-10",
+    "drony_bojowe/gerbera_1.jpg":  "Gerbera (drone)",
     # przeciwpancerne
-    "przeciwpancerne/fagot_1.jpg": "9M111 Fagot",
+    "przeciwpancerne/fagot_1.jpg":   "9M111 Fagot",
+    "przeciwpancerne/konkurs_1.jpg": "9M113 Konkurs",
+    "przeciwpancerne/kornet_1.jpg":  "9M133 Kornet",
+    "przeciwpancerne/metis_1.jpg":   "9K115 Metis",
+    "przeciwpancerne/metis-m_1.jpg": "9K115-2 Metis-M",
+    # artyleria samobiezna (2s40 dodane)
+    "artyleria_samobiezna/2s40-floks_1.jpg": "2S40 Floks",
 }
 
 # Ordering of images in the output (by directory category)
 CATEGORY_ORDER = [
+    "lotnictwo", "drony_bojowe",
     "czolgi", "bwd", "bwp", "apc",
     "artyleria_samobiezna", "artyleria_holowana",
     "przeciwlotnicze", "przeciwpancerne",
-    "lotnictwo",
     "karabiny", "karabiny_maszynowe", "karabiny_snajperskie",
     "rpg_wyrzutnie", "wyrzutnie_granatow",
     "pistolety_i_pm", "granaty_reczne", "miny",
@@ -397,13 +427,6 @@ def main():
         lines.append(f"Zdj. {idx}. `{file_name}`, **autor**: {artist}, lic. {license_str},")
         lines.append(f"**url**: {link}")
         lines.append("")
-
-    lines += [
-        "---",
-        "",
-        f"*Łącznie: {total} grafik. "
-        "Wygenerowano automatycznie skryptem `generate_attribution.py`.*",
-    ]
 
     out_path = os.path.join(BASE_DIR, "zrodla_grafik.md")
     with open(out_path, "w", encoding="utf-8") as f:
