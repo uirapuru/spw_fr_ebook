@@ -1,0 +1,5822 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian) (preloaded format=xelatex 2026.3.13)  3 APR 2026 11:19
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**debug.tex
+(./debug.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count192
+\c@chapter=\count193
+\c@section=\count194
+\c@subsection=\count195
+\c@subsubsection=\count196
+\c@paragraph=\count197
+\c@subparagraph=\count198
+\c@figure=\count199
+\c@table=\count266
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
+\g__graphics_track_int=\count267
+\l__pdf_internal_box=\box52
+\g__pdf_backend_annotation_int=\count268
+\g__pdf_backend_link_int=\count269
+))
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+Package: fontspec 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/05/11 v2.9e Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count270
+\l__fontspec_language_int=\count271
+\l__fontspec_strnum_int=\count272
+\l__fontspec_tmp_int=\count273
+\l__fontspec_tmpa_int=\count274
+\l__fontspec_tmpb_int=\count275
+\l__fontspec_tmpc_int=\count276
+\l__fontspec_em_int=\count277
+\l__fontspec_emdef_int=\count278
+\l__fontspec_strong_int=\count279
+\l__fontspec_strongdef_int=\count280
+\l__fontspec_tmpa_dim=\dimen142
+\l__fontspec_tmpb_dim=\dimen143
+\l__fontspec_tmpc_dim=\dimen144
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2025/01/31 v2.4 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count281
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+\l_xpg_alias_keyvals_int=\count282
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/gloss-polish.ldf
+File: gloss-polish.ldf polyglossia: module for Polish
+
+(/usr/share/texlive/texmf-dist/tex/latex/polyglossia/babelsh.def
+File: babelsh.def 2022/06/21 Babel common definitions for shorthands
+ Taken verbatim from babel files (2022/06/06 v3.76)
+)
+Package babel Info: Making " an active character on input line 41.
+\polish@hyphen=\XeTeXcharclass1
+\polish@openpunctuation=\XeTeXcharclass2
+\polish@nonsyllabicpreposition=\XeTeXcharclass3
+)
+
+Package polyglossia Info: Default language is polish
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'LinuxLibertineO(0)' created for font
+(fontspec)             'Linux Libertine O' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Linux Libertine
+(fontspec)             O/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Linux
+(fontspec)             Libertine
+(fontspec)             O/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Linux Libertine
+(fontspec)             O/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Linux
+(fontspec)             Libertine
+(fontspec)             O/B/OT:script=latn;language=dflt;+smcp;mapping=tex-text;
+"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Linux Libertine
+(fontspec)             O/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Linux Libertine
+(fontspec)             O/I/OT:script=latn;language=dflt;+smcp;mapping=tex-text;
+"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Linux
+(fontspec)             Libertine
+(fontspec)             O/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Linux Libertine
+(fontspec)             O/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text
+;"
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count283
+\Gm@cntv=\count284
+\c@Gm@tempcnt=\count285
+\Gm@bindingoffset=\dimen145
+\Gm@wd@mp=\dimen146
+\Gm@odd@mp=\dimen147
+\Gm@even@mp=\dimen148
+\Gm@layoutwidth=\dimen149
+\Gm@layoutheight=\dimen150
+\Gm@layouthoffset=\dimen151
+\Gm@layoutvoffset=\dimen152
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count286
+\float@exts=\toks19
+\float@box=\box53
+\@float@everytoks=\toks20
+\@floatcapt=\box54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count287
+\LTcapwidth=\dimen155
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count288
+\LT@rows=\count289
+\c@LT@tables=\count290
+\c@LT@chunks=\count291
+\LT@p@ftn=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen156
+\lightrulewidth=\dimen157
+\cmidrulewidth=\dimen158
+\belowrulesep=\dimen159
+\belowbottomsep=\dimen160
+\aboverulesep=\dimen161
+\abovetopsep=\dimen162
+\cmidrulesep=\dimen163
+\cmidrulekern=\dimen164
+\defaultaddspace=\dimen165
+\@cmidla=\count292
+\@cmidlb=\count293
+\@aboverulesep=\dimen166
+\@belowrulesep=\dimen167
+\@thisruleclass=\count294
+\@lastruleclass=\count295
+\@thisrulewidth=\dimen168
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box60
+\extrarowheight=\dimen170
+\NC@list=\toks22
+\extratabsurround=\skip55
+\backup@length=\skip56
+\ar@cellbox=\box61
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count296
+\calc@Bcount=\count297
+\calc@Adimen=\dimen171
+\calc@Bdimen=\dimen172
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count298
+\calc@Cskip=\skip59
+)
+(/usr/share/texlive/texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+Package: newunicodechar 2018/04/08 v1.2 Defining Unicode characters
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks23
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box62
+\beforetitleunit=\skip60
+\aftertitleunit=\skip61
+\ttl@plus=\dimen173
+\ttl@minus=\dimen174
+\ttl@toksa=\toks24
+\titlewidth=\dimen175
+\titlewidthlast=\dimen176
+\titlewidthfirst=\dimen177
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip62
+\f@nch@offset@elh=\skip63
+\f@nch@offset@erh=\skip64
+\f@nch@offset@olh=\skip65
+\f@nch@offset@orh=\skip66
+\f@nch@offset@elf=\skip67
+\f@nch@offset@erf=\skip68
+\f@nch@offset@olf=\skip69
+\f@nch@offset@orf=\skip70
+\f@nch@height=\skip71
+\f@nch@footalignment=\skip72
+\f@nch@widthL=\skip73
+\f@nch@widthC=\skip74
+\f@nch@widthR=\skip75
+\@temptokenb=\toks25
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip76
+\enit@outerparindent=\dimen178
+\enit@toks=\toks26
+\enit@inbox=\box63
+\enit@count@id=\count299
+\enitdp@description=\count300
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 51.
+\cftparskip=\skip77
+\cftbeforetoctitleskip=\skip78
+\cftaftertoctitleskip=\skip79
+\cftbeforepartskip=\skip80
+\cftpartnumwidth=\skip81
+\cftpartindent=\skip82
+\cftbeforechapskip=\skip83
+\cftchapindent=\skip84
+\cftchapnumwidth=\skip85
+\cftbeforesecskip=\skip86
+\cftsecindent=\skip87
+\cftsecnumwidth=\skip88
+\cftbeforesubsecskip=\skip89
+\cftsubsecindent=\skip90
+\cftsubsecnumwidth=\skip91
+\cftbeforesubsubsecskip=\skip92
+\cftsubsubsecindent=\skip93
+\cftsubsubsecnumwidth=\skip94
+\cftbeforeparaskip=\skip95
+\cftparaindent=\skip96
+\cftparanumwidth=\skip97
+\cftbeforesubparaskip=\skip98
+\cftsubparaindent=\skip99
+\cftsubparanumwidth=\skip100
+\cftbeforeloftitleskip=\skip101
+\cftafterloftitleskip=\skip102
+\cftbeforefigskip=\skip103
+\cftfigindent=\skip104
+\cftfignumwidth=\skip105
+\c@lofdepth=\count301
+\c@lotdepth=\count302
+\cftbeforelottitleskip=\skip106
+\cftafterlottitleskip=\skip107
+\cftbeforetabskip=\skip108
+\cfttabindent=\skip109
+\cfttabnumwidth=\skip110
+
+
+Package tocloft Warning: \@starttoc has already been redefined; tocloft bailing
+ out. on input line 1156.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count303
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen179
+\Hy@linkcounter=\count304
+\Hy@pagecounter=\count305
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count306
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count307
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen180
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count308
+\Field@Width=\dimen181
+\Fld@charsize=\dimen182
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count309
+\c@Item=\count310
+\c@Hfootnote=\count311
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-11-05 v7.01l Hyperref driver for XeTeX
+\pdfm@box=\box64
+\c@Hy@AnnotLevel=\count312
+\HyField@AnnotCount=\count313
+\Fld@listcount=\count314
+\c@bookmark@seq@number=\count315
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip111
+)
+(./debug.aux)
+\openout1 = `debug.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 87.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 87.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 87.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 87.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 87.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 87.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 87.
+LaTeX Font Info:    Redeclaring math accent \check on input line 87.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 87.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 87.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 87.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 87.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 87.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line
+ 87.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input lin
+e 87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n
+ on input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input li
+ne 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/b/n on input lin
+e 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 87.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/b/n
+ on input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/b/it on input l
+ine 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 87.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 87.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-33.0119pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 87.
+(./debug.out) (./debug.out)
+\@outlinefile=\write3
+\openout3 = `debug.out'.
+
+
+
+[1
+
+
+
+] (./debug.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+[1]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2])
+\tf@toc=\write4
+\openout4 = `debug.toc'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+File: ../images/czolgi/t-72_1.jpg Graphic file (type bmp)
+<../images/czolgi/t-72_1.jpg>
+File: ../images/czolgi/t-72_2.jpg Graphic file (type bmp)
+<../images/czolgi/t-72_2.jpg>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[1
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3]
+File: ../images/czolgi/t-80_1.jpg Graphic file (type bmp)
+<../images/czolgi/t-80_1.jpg>
+File: ../images/czolgi/t-80_2.jpg Graphic file (type bmp)
+<../images/czolgi/t-80_2.jpg>
+
+Underfull \hbox (badness 2035) in paragraph at lines 211--219
+\TU/LinuxLibertineO(0)/m/n/12 szczególnie wartościowym na teatrze działań w Ark
+tyce i Syberii. Rosja intensywnie
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[4
+
+]
+Underfull \hbox (badness 1546) in paragraph at lines 255--259
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak dymu przy ruszaniu: \TU/LinuxLibertineO(0)
+/m/n/12 silnik turbinowy T-- 80 jest praktycznie bezdymny —
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 259--262
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczny wizjer kierowcy z przodu kadł
+uba po lewej: \TU/LinuxLibertineO(0)/m/n/12 rozmieszczenie
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[5]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6]
+File: ../images/czolgi/t-90_1.jpg Graphic file (type bmp)
+<../images/czolgi/t-90_1.jpg>
+File: ../images/czolgi/t-90_2.jpg Graphic file (type bmp)
+<../images/czolgi/t-90_2.jpg>
+
+Underfull \hbox (badness 1342) in paragraph at lines 302--311
+\TU/LinuxLibertineO(0)/m/n/12 kierowania ogniem zaczerpniętymi z T-- 80U. Klucz
+ową cechą wyróżniającą jest system
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 302--311
+\TU/LinuxLibertineO(0)/m/n/12 aktywnej ochrony Sztora-- 1, który zakłóca system
+y naprowadzania przeciwpancernych
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7
+
+]
+Underfull \hbox (badness 1783) in paragraph at lines 363--367
+[]\TU/LinuxLibertineO(0)/b/n/12 Lufa z rękawem termicznym i wycieraczką: \TU/Li
+nuxLibertineO(0)/m/n/12 T-- 90A/M ma grubą czarną osłonę
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]
+Underfull \hbox (badness 5893) in paragraph at lines 367--370
+[]\TU/LinuxLibertineO(0)/b/n/12 Krata przeciwkumulacyjna na tylnej ścianie wież
+y: \TU/LinuxLibertineO(0)/m/n/12 T-- 90M wyposażony jest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--382
+[]\TU/LinuxLibertineO(0)/m/n/12 W 2016 roku
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9]
+File: ../images/bwp/bmp-1_1.jpg Graphic file (type bmp)
+<../images/bwp/bmp-1_1.jpg>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10
+
+]
+Underfull \hbox (badness 1331) in paragraph at lines 471--476
+\TU/LinuxLibertineO(0)/m/n/12 drzwi tylne (służą jednocześnie jako zbiorniki pa
+liwa) otwierane na zewnątrz —
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12]
+File: ../images/bwp/bmp-2_1.jpg Graphic file (type bmp)
+<../images/bwp/bmp-2_1.jpg>
+File: ../images/bwp/bmp-2_2.jpg Graphic file (type bmp)
+<../images/bwp/bmp-2_2.jpg>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13
+
+]
+Overfull \vbox (4.28262pt too high) has occurred while \output is active []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14]
+Underfull \hbox (badness 2932) in paragraph at lines 506--517
+\TU/LinuxLibertineO(0)/m/n/12 w szybkostrzelną armatę automatyczną 30 mm 2A42, 
+zdolną razić zarówno pojazdy
+ []
+
+
+Underfull \hbox (badness 1281) in paragraph at lines 561--566
+[]\TU/LinuxLibertineO(0)/b/n/12 Dwuosobowa, wyraźnie wyższa wieżyczka: \TU/Linu
+xLibertineO(0)/m/n/12 Wieża BMP-- 2 jest wyraźnie wyższa
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 566--570
+[]\TU/LinuxLibertineO(0)/b/n/12 Smukła, długa lufa armaty 30 mm: \TU/LinuxLiber
+tineO(0)/m/n/12 Cienka, długa lufa autocannonu 2A42
+ []
+
+
+Underfull \hbox (badness 1694) in paragraph at lines 566--570
+\TU/LinuxLibertineO(0)/m/n/12 z charakterystycznym cylindrycznym tłumikiem płom
+ieni — znacznie smuklejsza
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15]
+Underfull \hbox (badness 3623) in paragraph at lines 591--597
+[]\TU/LinuxLibertineO(0)/m/n/12 Armata 2A42 zastosowana w BMP-- 2 ma aż dwa pod
+ajniki amunicji, co
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 591--597
+\TU/LinuxLibertineO(0)/m/n/12 To rozwiązanie, niespotykane w ówczesnych zachodn
+ich pojazdach, dawało
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16]
+File: ../images/bwp/bmp-3_1.jpg Graphic file (type bmp)
+<../images/bwp/bmp-3_1.jpg>
+File: ../images/bwp/bmp-3_2.jpg Graphic file (type bmp)
+<../images/bwp/bmp-3_2.jpg>
+
+Underfull \hbox (badness 1092) in paragraph at lines 612--624
+\TU/LinuxLibertineO(0)/m/n/12 w stosunku do BMP-- 1 i BMP-- 2. Jego unikalną ce
+chą jest wyjątkowo silne uzbrojenie:
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+Underfull \hbox (badness 1173) in paragraph at lines 701--707
+[]\TU/LinuxLibertineO(0)/m/n/12 BMP-- 3 może strzelać rakietami przeciwpancerny
+mi bezpośrednio przez lufę
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+File: ../images/apc/btr-80_1.jpg Graphic file (type bmp)
+<../images/apc/btr-80_1.jpg>
+File: ../images/apc/btr-80_2.jpg Graphic file (type bmp)
+<../images/apc/btr-80_2.jpg>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20
+
+]
+Underfull \hbox (badness 2205) in paragraph at lines 723--732
+\TU/LinuxLibertineO(0)/m/n/12 BTR-- 80 (ros. Бронетранспортёр-- 80) to ośmiokoł
+owy kołowy transporter opancerzony
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 723--732
+\TU/LinuxLibertineO(0)/m/n/12 na polu walki i zapewnieniu jej bezpośredniego ws
+parcia ogniowego, jest zdolny do
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 776--781
+\TU/LinuxLibertineO(0)/m/n/12 pod kątem ok. 60°, z charakterystycznym zaokrąglo
+nym “nosem” — bardziej
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 781--786
+\TU/LinuxLibertineO(0)/m/n/12 otwartą wieżyczkę z karabinem maszynowym 14,5 mm 
+KPVT i 7,62 mm PKT
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[21]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[22]
+File: ../images/apc/btr-90_1.jpg Graphic file (type bmp)
+<../images/apc/btr-90_1.jpg>
+File: ../images/apc/btr-90_2.jpg Graphic file (type bmp)
+<../images/apc/btr-90_2.jpg>
+
+Underfull \hbox (badness 1048) in paragraph at lines 829--839
+\TU/LinuxLibertineO(0)/m/n/12 BTR-- 90 (ros. Бронетранспортёр-- 90, znany też j
+ako “Rostok”) to rosyjski ośmiokołowy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[24]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[25]
+File: ../images/apc/tigr_1.jpg Graphic file (type bmp)
+<../images/apc/tigr_1.jpg>
+File: ../images/apc/tigr_2.jpg Graphic file (type bmp)
+<../images/apc/tigr_2.jpg>
+
+Underfull \hbox (badness 3128) in paragraph at lines 935--945
+\TU/LinuxLibertineO(0)/m/n/12 wariantach — od otwartej platformy z CKM po wersj
+ę opancerzoną z modułowym
+ []
+
+
+Underfull \hbox (badness 4441) in paragraph at lines 935--945
+\TU/LinuxLibertineO(0)/m/n/12 uzbrojeniem. W konfliktach w Syrii i Ukrainie Tig
+r stał się jednym z najbardziej
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[26
+
+]
+Underfull \hbox (badness 2932) in paragraph at lines 987--991
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczna prostokątna sylwetka z wysoką
+ kabiną: \TU/LinuxLibertineO(0)/m/n/12 Tigr ma wyraźnie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 991--995
+[]\TU/LinuxLibertineO(0)/b/n/12 Duże okrągłe
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 999--1003
+[]\TU/LinuxLibertineO(0)/b/n/12 Moduł uzbrojenia na dachu (wieżyczka lub postum
+ent): \TU/LinuxLibertineO(0)/m/n/12 większość wariantów
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 999--1003
+\TU/LinuxLibertineO(0)/m/n/12 bojowych ma wyraźny moduł z uzbrojeniem na dachu 
+— otwarta platforma lub
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[27]
+Underfull \hbox (badness 1137) in paragraph at lines 1003--1007
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak opancerzenia bocznych drzwi (wersja podsta
+wowa): \TU/LinuxLibertineO(0)/m/n/12 podstawowy Tigr ma
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 1015--1022
+[]\TU/LinuxLibertineO(0)/m/n/12 GAZ Tigr pierwotnie był projektowany jako pojaz
+d cywilny do sprzedaży
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 1015--1022
+\TU/LinuxLibertineO(0)/m/n/12 wersję militarną. Dopiero sukces eksportowy skłon
+ił rosyjskie ministerstwo
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 1015--1022
+\TU/LinuxLibertineO(0)/m/n/12 obrony do zamówienia go dla własnych sił zbrojnyc
+h. Paradoksalnie jeden
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[28]
+File: ../images/artyleria_samobiezna/2s1_1.jpg Graphic file (type bmp)
+<../images/artyleria_samobiezna/2s1_1.jpg>
+
+Underfull \hbox (badness 2073) in paragraph at lines 1040--1049
+\TU/LinuxLibertineO(0)/m/n/12 2S1 Goździk (ros. «Гвоздика» — goździk) to radzie
+cka 122 mm haubica samobieżna
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 1040--1049
+\TU/LinuxLibertineO(0)/m/n/12 zdolność amfibijną — może przepływać rzeki bez pr
+zygotowania inżynieryjnego dzięki
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 1040--1049
+\TU/LinuxLibertineO(0)/m/n/12 uszczelnieniu kadłuba i użyciu gąsienic jako napę
+du wodnego. Goździk jest jednym
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29
+
+]
+Underfull \hbox (badness 1325) in paragraph at lines 1085--1089
+\TU/LinuxLibertineO(0)/m/n/12 i okrągła w planie, osadzona na charakterystyczny
+m szerokim, płaskim kadłubie
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
+File: ../images/artyleria_samobiezna/2s3_1.jpg Graphic file (type bmp)
+<../images/artyleria_samobiezna/2s3_1.jpg>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[32]
+File: ../images/artyleria_samobiezna/2s5_1.jpg Graphic file (type bmp)
+<../images/artyleria_samobiezna/2s5_1.jpg>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[33
+
+]
+Underfull \hbox (badness 2042) in paragraph at lines 1305--1311
+[]\TU/LinuxLibertineO(0)/m/n/12 2S5 był jednym z pierwszych radzieckich systemó
+w artylerii zdolnych do
+ []
+
+
+Underfull \hbox (badness 1769) in paragraph at lines 1305--1311
+\TU/LinuxLibertineO(0)/m/n/12 laserem przez obserwatora naziemnego lub drona. J
+eden pocisk Krasnopol
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[34]
+File: ../images/artyleria_samobiezna/2s9_1.jpg Graphic file (type bmp)
+<../images/artyleria_samobiezna/2s9_1.jpg>
+
+Underfull \hbox (badness 4242) in paragraph at lines 1329--1338
+\TU/LinuxLibertineO(0)/m/n/12 Zbudowana na podwoziu BTR-- D (lotnicza wersja BM
+D), jest jednym z nielicznych
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1376--1380
+[]\TU/LinuxLibertineO(0)/b/n/12 Podwozie gąsienicowe bez kół bocznych (płazy): 
+\TU/LinuxLibertineO(0)/m/n/12 podwozie BTR-- D
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 1400--1407
+[]\TU/LinuxLibertineO(0)/m/n/12 2S9 jest jedyną armatą samobieżną na świecie se
+ryjnie desantowaną na
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36]
+File: ../images/artyleria_samobiezna/2s23_1.jpg Graphic file (type bmp)
+<../images/artyleria_samobiezna/2s23_1.jpg>
+
+Underfull \hbox (badness 1033) in paragraph at lines 1425--1434
+\TU/LinuxLibertineO(0)/m/n/12 Wintowaja Kołiesnaja) to rosyjski 120 mm samobież
+ny moździerz-- armata na podwoziu
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37
+
+]
+Underfull \hbox (badness 1521) in paragraph at lines 1476--1480
+[]\TU/LinuxLibertineO(0)/b/n/12 Sylwetka BTR-- 80 z “naroślem” wieżowym: \TU/Li
+nuxLibertineO(0)/m/n/12 kadłub jest identyczny z BTR-- 80 —
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38]
+File: ../images/artyleria_samobiezna/2s4_1.jpg Graphic file (type bmp)
+<../images/artyleria_samobiezna/2s4_1.jpg>
+
+Underfull \hbox (badness 2261) in paragraph at lines 1518--1528
+\TU/LinuxLibertineO(0)/m/n/12 obronnych, bunkrów żelbetowych i skupisk wojsk. P
+ocisk 240 mm waży do 130 kg
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[39
+
+]
+Underfull \hbox (badness 3312) in paragraph at lines 1591--1598
+\TU/LinuxLibertineO(0)/m/n/12 go “bogiem wojny” — nie z podziwu, ale ze strachu
+. Jeden pocisk 3F2
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+Underfull \hbox (badness 2486) in paragraph at lines 1661--1665
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak gąsienic — 6 kół terenowych Urala: \TU/Lin
+uxLibertineO(0)/m/n/12 koła ciężarówki wojskowej Ural są
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[41
+
+]
+Underfull \hbox (badness 4303) in paragraph at lines 1665--1669
+[]\TU/LinuxLibertineO(0)/b/n/12 Modułowy kontener ogniowy z tyłu skrzyni: \TU/L
+inuxLibertineO(0)/m/n/12 za kabiną widoczny jest duży
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1677--1685
+[]\TU/LinuxLibertineO(0)/m/n/12 Floks był jednym z pierwszych
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 1677--1685
+\TU/LinuxLibertineO(0)/m/n/12 pierwszych egzemplarzy minęły zaledwie 2 lata, co
+ w rosyjskim przemyśle
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[42]
+File: ../images/artyleria_holowana/d-30_1.jpg Graphic file (type bmp)
+<../images/artyleria_holowana/d-30_1.jpg>
+
+Underfull \hbox (badness 1337) in paragraph at lines 1702--1713
+\TU/LinuxLibertineO(0)/m/n/12 następca M-- 30 i wprowadzona do służby w 1960 ro
+ku. Charakteryzuje się unikalnym
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[43
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[44]
+Underfull \hbox (badness 1337) in paragraph at lines 1796--1806
+\TU/LinuxLibertineO(0)/m/n/12 i przyjęta do służby w 1938 roku. Pomimo swojego 
+wieku, M-- 30 pozostaje w użyciu
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 1796--1806
+\TU/LinuxLibertineO(0)/m/n/12 i w artyleryjskich jednostkach Gwardii Narodowej.
+ Jest legendą II wojny światowej:
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 1839--1843
+\TU/LinuxLibertineO(0)/m/n/12 wygląd w porównaniu z nowoczesnymi armatami; D-- 
+30 ma gumowe opony na
+ []
+
+
+Underfull \hbox (badness 1924) in paragraph at lines 1848--1853
+[]\TU/LinuxLibertineO(0)/b/n/12 Lufa bez dużego hamulca wylotowego: \TU/LinuxLi
+bertineO(0)/m/n/12 M-- 30 ma lufę bez wyraźnego hamulca
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[45
+
+]
+Underfull \hbox (badness 2042) in paragraph at lines 1857--1862
+[]\TU/LinuxLibertineO(0)/b/n/12 Konfiguracja 2-- kołowa na dyszlu ciągnionym pr
+zez ciągnik: \TU/LinuxLibertineO(0)/m/n/12 M-- 30 jest zawsze
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48]
+Underfull \hbox (badness 1221) in paragraph at lines 2023--2028
+\TU/LinuxLibertineO(0)/m/n/12 lufę (tylko L/27,7) zakończoną dużym cylindryczny
+m dwukomorowym hamulcem
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49
+
+]
+Underfull \hbox (badness 6725) in paragraph at lines 2057--2065
+\TU/LinuxLibertineO(0)/m/n/12 M-- 30, po prostu założył lufę 152 mm na lawet M-
+- 30 — oszczędzając
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 2057--2065
+\TU/LinuxLibertineO(0)/m/n/12 czas i pieniądze. To “frankenstein-- artyleria” d
+ziałała tak dobrze, że Sowieci
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[50]
+Underfull \hbox (badness 1810) in paragraph at lines 2076--2085
+\TU/LinuxLibertineO(0)/m/n/12 “haubica-- armata”. Używa tej samej amunicji co s
+amobieżna 2S3 Akacja, co upraszcza
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[51
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[52]
+Underfull \hbox (badness 1097) in paragraph at lines 2216--2220
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczny wielokomorowy hamulec wylotow
+y na bardzo długiej lufie:
+ []
+
+
+Underfull \hbox (badness 4353) in paragraph at lines 2221--2225
+[]\TU/LinuxLibertineO(0)/b/n/12 Dwa szerokie ramiona lawetu w konfiguracji “V” 
+— podobne do D-- 20 ale
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 2221--2225
+\TU/LinuxLibertineO(0)/m/n/12 wyraźnie masywniejszy i nowocześniejszy niż D-- 2
+0; bardziej kanciaste kształty
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[53
+
+]
+Underfull \hbox (badness 2990) in paragraph at lines 2225--2230
+[]\TU/LinuxLibertineO(0)/b/n/12 Platforma kołowa z hydraulicznym układem poziom
+owania: \TU/LinuxLibertineO(0)/m/n/12 Msta-- B ma mały
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 2230--2235
+[]\TU/LinuxLibertineO(0)/b/n/12 Osłona balistyczna obsługi (tarcza) mała i geom
+etryczna: \TU/LinuxLibertineO(0)/m/n/12 Msta-- B ma skromną
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 2244--2252
+[]\TU/LinuxLibertineO(0)/m/n/12 Msta-- B jest wyjątkowym przypadkiem: holowane 
+działo zaprojektowane po
+ []
+
+
+Underfull \hbox (badness 2772) in paragraph at lines 2244--2252
+\TU/LinuxLibertineO(0)/m/n/12 jest odwrotnie, bo projektanci wzięli gotową lufę
+ 2S19 i umieścili ją na
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 2244--2252
+\TU/LinuxLibertineO(0)/m/n/12 dorównującymi wielu samobieżnym systemom NATO. Na
+ Ukrainie Msta-- B
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[54]
+Underfull \hbox (badness 2503) in paragraph at lines 2310--2315
+[]\TU/LinuxLibertineO(0)/b/n/12 Duży, charakterystyczny hamulec wylotowy w kszt
+ałcie “kuli”: \TU/LinuxLibertineO(0)/m/n/12 Giacynt-- B ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[55
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[56]
+File: ../images/artyleria_holowana/mt-12_1.jpg Graphic file (type bmp)
+<../images/artyleria_holowana/mt-12_1.jpg>
+
+Underfull \hbox (badness 2205) in paragraph at lines 2366--2376
+\TU/LinuxLibertineO(0)/m/n/12 Przeznaczona jest do bezpośredniego zwalczania po
+jazdów opancerzonych, fortyfikacji
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[57
+
+]
+Underfull \hbox (badness 5667) in paragraph at lines 2421--2425
+[]\TU/LinuxLibertineO(0)/b/n/12 Duże koła ze stalowymi obręczami (bez opon) lub
+ z oponami: \TU/LinuxLibertineO(0)/m/n/12 MT-- 12 ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[58]
+Underfull \hbox (badness 1194) in paragraph at lines 2456--2467
+\TU/LinuxLibertineO(0)/m/n/12 możliwością prowadzenia ognia automatycznego — pr
+zy użyciu taśmowego podawania
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[59
+
+]
+Underfull \hbox (badness 6510) in paragraph at lines 2532--2536
+\TU/LinuxLibertineO(0)/m/n/12 nabojami używane do automatycznego ładowania — wi
+doczne przy obsłudze
+ []
+
+
+Underfull \hbox (badness 4621) in paragraph at lines 2541--2549
+\TU/LinuxLibertineO(0)/m/n/12 wodą lub przerwy; w suchym klimacie Afganistanu b
+yło to poważnym
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[60]
+Underfull \hbox (badness 1502) in paragraph at lines 2560--2570
+\TU/LinuxLibertineO(0)/m/n/12 2B14 Podnos (Поднос — Taca) to radziecko-- rosyjs
+ki lekki moździerz piechoty kalibru
+ []
+
+
+Underfull \hbox (badness 2486) in paragraph at lines 2560--2570
+\TU/LinuxLibertineO(0)/m/n/12 82 mm opracowany w latach 70. i przyjęty do służb
+y w 1983 roku jako zastępnik
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 2560--2570
+\TU/LinuxLibertineO(0)/m/n/12 — całość waży zaledwie 42 kg, co pozwala na trans
+port przez trzyosobową drużynę
+ []
+
+
+Underfull \hbox (badness 1038) in paragraph at lines 2560--2570
+\TU/LinuxLibertineO(0)/m/n/12 (lufa, płyta bazowa i trójnóg w trzech osobnych c
+zęściach). Podnos może strzelać bez
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 2603--2607
+[]\TU/LinuxLibertineO(0)/b/n/12 Klasyczna pionowa lufa moździerzowa — wyraźnie 
+prosta i długa: \TU/LinuxLibertineO(0)/m/n/12 Podnos jest
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[61
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[62]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[63
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 2728--2736
+[]\TU/LinuxLibertineO(0)/m/n/12 2S12 Sani zyskał nieoczekiwanie dużą
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[64]
+File: ../images/przeciwlotnicze/s-300_1.jpg Graphic file (type bmp)
+<../images/przeciwlotnicze/s-300_1.jpg>
+
+Underfull \hbox (badness 3930) in paragraph at lines 2754--2764
+\TU/LinuxLibertineO(0)/m/n/12 S-- 300 (NATO: SA-- 10 Grumble) to rodzina radzie
+ckich i rosyjskich systemów rakiet
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[65
+
+]
+Underfull \hbox (badness 7851) in paragraph at lines 2805--2809
+[]\TU/LinuxLibertineO(0)/b/n/12 Cylindryczne pojemniki transportowo-- startowe:
+ \TU/LinuxLibertineO(0)/m/n/12 każdy pocisk jest zamknięty
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 2810--2813
+\TU/LinuxLibertineO(0)/m/n/12 składa się z kilku pojazdów o podobnym kształcie 
+pudełkowych kontenerów na
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[66]
+File: ../images/przeciwlotnicze/s-400_1.jpg Graphic file (type bmp)
+<../images/przeciwlotnicze/s-400_1.jpg>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[67
+
+]
+Underfull \hbox (badness 1325) in paragraph at lines 2893--2897
+[]\TU/LinuxLibertineO(0)/b/n/12 Nowszy, bardziej smukły kształt pojemników star
+towych: \TU/LinuxLibertineO(0)/m/n/12 pojemniki TEL S-- 400
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 2893--2897
+\TU/LinuxLibertineO(0)/m/n/12 są nieco dłuższe i smuklejsze niż S-- 300; montow
+ane na nowszych ciężarówkach
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 2909--2913
+[]\TU/LinuxLibertineO(0)/b/n/12 Zestaw pojazdów — zawsze minimum 4–5 jednostek:
+ \TU/LinuxLibertineO(0)/m/n/12 bateria S-- 400 to zawsze
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 2921--2928
+[]\TU/LinuxLibertineO(0)/m/n/12 S-- 400 jest pierwszym na świecie systemem, któ
+ry może używać czterech
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[68]
+File: ../images/przeciwlotnicze/tor_1.jpg Graphic file (type bmp)
+<../images/przeciwlotnicze/tor_1.jpg>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[69
+
+]
+Underfull \hbox (badness 7740) in paragraph at lines 2999--3003
+\TU/LinuxLibertineO(0)/m/n/12 jak “jeżdżący kontener” — brak tradycyjnej artyle
+ryjskiej wieży z lufą jest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3003--3007
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczna kwadratowa antena z przodu po
+jazdu: \TU/LinuxLibertineO(0)/m/n/12 panel
+ []
+
+
+Underfull \hbox (badness 4752) in paragraph at lines 3019--3025
+[]\TU/LinuxLibertineO(0)/m/n/12 W lipcu 2014 roku ukraińskie wojsko podało, że 
+samolot transportowy
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 3019--3025
+\TU/LinuxLibertineO(0)/m/n/12 An-- 26 lecący na wysokości 6500 m został zestrze
+lony pociskiem, który
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[70]
+File: ../images/przeciwlotnicze/pantsir_1.jpg Graphic file (type bmp)
+<../images/przeciwlotnicze/pantsir_1.jpg>
+
+Underfull \hbox (badness 1259) in paragraph at lines 3043--3053
+\TU/LinuxLibertineO(0)/m/n/12 system obrony przeciwlotniczej bliskiego zasięgu,
+ wchodzący do służby od 2012 roku.
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[71
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3086--3090
+[]\TU/LinuxLibertineO(0)/b/n/12 Dwa duże radary na dachu —
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 3115--3121
+[]\TU/LinuxLibertineO(0)/m/n/12 W Syrii nagranie drona kamikaze niszczy Pancerz
+-- S1, który w tym czasie
+ []
+
+
+Underfull \hbox (badness 1314) in paragraph at lines 3115--3121
+\TU/LinuxLibertineO(0)/m/n/12 stał nieruchomo bez aktywnego radaru — system był
+ “uśpiony”. Analitycy
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 3115--3121
+\TU/LinuxLibertineO(0)/m/n/12 NATO stwierdzili, że to właśnie jest główna słabo
+ść Pancerza: radar musi
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 3134--3145
+\TU/LinuxLibertineO(0)/m/n/12 9K34 Strieła-- 3 (NATO:
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 3184--3189
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak podwójnego zakresu spektralnego: \TU/Linux
+LibertineO(0)/m/n/12 Strieła-- 3 ma szukacz jednopasmowy
+ []
+
+
+Underfull \hbox (badness 1776) in paragraph at lines 3184--3189
+\TU/LinuxLibertineO(0)/m/n/12 (podczerwień) — nie ma dodatkowego filtra UV jak 
+Igła; to różnica techniczna
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[73
+
+]
+Underfull \hbox (badness 2376) in paragraph at lines 3193--3197
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak identyfikatora IFF: \TU/LinuxLibertineO(0)
+/m/n/12 starsza Strieła-- 3 standardowo nie ma wyposażenia do
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[74]
+File: ../images/przeciwlotnicze/igla_1.jpg Graphic file (type bmp)
+<../images/przeciwlotnicze/igla_1.jpg>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[75
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3270--3275
+[]\TU/LinuxLibertineO(0)/b/n/12 Długa zielona lub oliwkowa rura na ramieniu str
+zelca:
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 3279--3284
+\TU/LinuxLibertineO(0)/m/n/12 ciemnooliwkowym lub zielonym, podczas gdy starsza
+ Strieła-- 2 jest w kolorze
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 3301--3308
+[]\TU/LinuxLibertineO(0)/m/n/12 Igła odegrała kluczową rolę w wojnie w Afganist
+anie — ale po stronie
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[76]
+File: ../images/przeciwlotnicze/verba_1.jpg Graphic file (type bmp)
+<../images/przeciwlotnicze/verba_1.jpg>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[77
+
+]
+Underfull \hbox (badness 1281) in paragraph at lines 3377--3380
+\TU/LinuxLibertineO(0)/m/n/12 Wierby jest cieńsza i dłuższa niż Igły — wynika t
+o z trójzakresowego szukacza
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 3397--3400
+[]\TU/LinuxLibertineO(0)/b/n/12 Stanowisko zintegrowane z systemem zarządzania 
+polem walki: \TU/LinuxLibertineO(0)/m/n/12 Wierba jest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3405--3412
+[]\TU/LinuxLibertineO(0)/m/n/12 Wierba była
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[78]
+File: ../images/przeciwpancerne/fagot_1.jpg Graphic file (type bmp)
+<../images/przeciwpancerne/fagot_1.jpg>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[79
+
+]
+Underfull \hbox (badness 3009) in paragraph at lines 3472--3477
+[]\TU/LinuxLibertineO(0)/b/n/12 Prostokątna wyrzutnia na trójnogu z celownikiem
+ optycznym: \TU/LinuxLibertineO(0)/m/n/12 wyrzutnia ma
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 3481--3486
+[]\TU/LinuxLibertineO(0)/b/n/12 Przewód sterowania wysuwający się po starcie: \
+TU/LinuxLibertineO(0)/m/n/12 charakterystyczny cienki drut
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[80]
+Underfull \hbox (badness 1320) in paragraph at lines 3521--3530
+\TU/LinuxLibertineO(0)/m/n/12 zwiększony zasięg (do 4000 m) i lepsza głowica ku
+mulacyjna (600–800 mm przebicia)
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 3571--3576
+[]\TU/LinuxLibertineO(0)/b/n/12 Montaż na BMP-- 1/2: \TU/LinuxLibertineO(0)/m/n
+/12 wyrzutnia Konkursa zamontowana na wieżyczce BWP ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[81
+
+]
+Underfull \hbox (badness 3417) in paragraph at lines 3591--3598
+\TU/LinuxLibertineO(0)/m/n/12 za “niezniszczalną”. Okazało się, że reaktywny pa
+ncerz Blazer skutecznie
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 3591--3598
+\TU/LinuxLibertineO(0)/m/n/12 neutralizuje pierwotną głowicę Konkursa, ale wers
+ja tandemowa (9M113M)
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[82]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[83
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[84]
+Underfull \hbox (badness 5119) in paragraph at lines 3744--3747
+[]\TU/LinuxLibertineO(0)/b/n/12 Krótszy pojemnik pocisku niż Fagot: \TU/LinuxLi
+bertineO(0)/m/n/12 pojemnik startowy Metisa jest krótszy
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 3747--3751
+[]\TU/LinuxLibertineO(0)/b/n/12 Wyrzutnia bez charakterystycznego “teleskopu” F
+agota: \TU/LinuxLibertineO(0)/m/n/12 wizjer Fagota jest duży
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[85
+
+]
+Underfull \hbox (badness 8132) in paragraph at lines 3755--3759
+[]\TU/LinuxLibertineO(0)/b/n/12 Białożółty kolor pojemnika startowego pocisku: 
+\TU/LinuxLibertineO(0)/m/n/12 pojemniki pocisków Metisa
+ []
+
+
+Underfull \hbox (badness 1024) in paragraph at lines 3755--3759
+\TU/LinuxLibertineO(0)/m/n/12 mają charakterystyczny jasny (biały lub kremowy) 
+kolor z żółtymi lub czarnymi
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 3767--3774
+\TU/LinuxLibertineO(0)/m/n/12 przez jeden oddział piechoty bez specjalistyczneg
+o pojazdu. Trzyosobowy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[86]
+Underfull \hbox (badness 1107) in paragraph at lines 3786--3797
+\TU/LinuxLibertineO(0)/m/n/12 atakować dwa cele jednocześnie. Stosowany z różny
+ch platform: przenośna wyrzutnia,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3832--3836
+[]\TU/LinuxLibertineO(0)/b/n/12 Wyrzutnia z dużym celownikiem
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 3836--3840
+[]\TU/LinuxLibertineO(0)/b/n/12 Pojemnik pocisku większy i cięższy niż Fagot: \
+TU/LinuxLibertineO(0)/m/n/12 pocisk Korneta jest grubszy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[87
+
+]
+Underfull \hbox (badness 1694) in paragraph at lines 3844--3848
+[]\TU/LinuxLibertineO(0)/b/n/12 Wariant na pojeździe — 2 wyrzutnie jednocześnie
+ (Kornet-- D): \TU/LinuxLibertineO(0)/m/n/12 mobilna wersja
+ []
+
+
+Underfull \hbox (badness 1902) in paragraph at lines 3848--3851
+[]\TU/LinuxLibertineO(0)/b/n/12 Start bez dużego bocznego dymu: \TU/LinuxLibert
+ineO(0)/m/n/12 Kornet odpalany jest bez silnika startowego
+ []
+
+
+Underfull \hbox (badness 1824) in paragraph at lines 3856--3865
+[]\TU/LinuxLibertineO(0)/m/n/12 Kornet stał się sławny w 2003 roku, gdy irackie
+ siły oporu użyły go do
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[88]
+File: ../images/lotnictwo/mi-24_1.jpg Graphic file (type bmp)
+<../images/lotnictwo/mi-24_1.jpg>
+File: ../images/lotnictwo/mi-24_2.jpg Graphic file (type bmp)
+<../images/lotnictwo/mi-24_2.jpg>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[89
+
+]
+Underfull \hbox (badness 1635) in paragraph at lines 3935--3940
+[]\TU/LinuxLibertineO(0)/b/n/12 Skrzydła boczne (sponsony): \TU/LinuxLibertineO
+(0)/m/n/12 Mi-- 24 jako jedyny spośród rosyjskich śmigłowców
+ []
+
+
+Underfull \hbox (badness 3260) in paragraph at lines 3935--3940
+\TU/LinuxLibertineO(0)/m/n/12 bojowych posiada krótkie, przykabinowe skrzydła n
+ośne z twardymi punktami
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[90]
+Underfull \hbox (badness 1454) in paragraph at lines 3952--3956
+[]\TU/LinuxLibertineO(0)/b/n/12 Gondola uzbrojenia pod dziobem: \TU/LinuxLibert
+ineO(0)/m/n/12 Zależnie od wariantu — obrotowa wieżyczka
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 3961--3965
+[]\TU/LinuxLibertineO(0)/m/n/12 Mi-- 24 jest jedynym na świecie śmigłowcem bojo
+wym, który w 1978 roku
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[91]
+File: ../images/lotnictwo/mi-28_1.jpg Graphic file (type bmp)
+<../images/lotnictwo/mi-28_1.jpg>
+File: ../images/lotnictwo/mi-28_2.jpg Graphic file (type bmp)
+<../images/lotnictwo/mi-28_2.jpg>
+
+Underfull \hbox (badness 2418) in paragraph at lines 3979--3989
+\TU/LinuxLibertineO(0)/m/n/12 Mi-- 28 to rosyjski śmigłowiec szturmowy czwartej
+ generacji, opracowany przez biuro
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 3979--3989
+\TU/LinuxLibertineO(0)/m/n/12 “Nocny Myśliwy” (Nocnoj Ochotnik) wyposażono w ra
+dar nad wirnikiem i systemy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[92
+
+]
+Underfull \hbox (badness 3746) in paragraph at lines 4035--4040
+\TU/LinuxLibertineO(0)/m/n/12 kulista osłona radaru umieszczona ponad płaszczyz
+ną wirnika głównego — to
+ []
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 4035--4040
+\TU/LinuxLibertineO(0)/m/n/12 najbardziej rozpoznawalny element, odróżniający M
+i-- 28N od wszystkich innych
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[93]
+Underfull \hbox (badness 1087) in paragraph at lines 4062--4067
+\TU/LinuxLibertineO(0)/m/n/12 i rywalizacja z Ka-- 50, zanim śmigłowiec trafił 
+do linii bojowych. To jeden
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 4062--4067
+\TU/LinuxLibertineO(0)/m/n/12 z najdłuższych procesów wdrożeniowych w historii 
+rosyjskiego lotnictwa
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[94]
+File: ../images/lotnictwo/ka-52_1.jpg Graphic file (type bmp)
+<../images/lotnictwo/ka-52_1.jpg>
+File: ../images/lotnictwo/ka-52_2.jpg Graphic file (type bmp)
+<../images/lotnictwo/ka-52_2.jpg>
+
+Underfull \hbox (badness 2012) in paragraph at lines 4081--4092
+\TU/LinuxLibertineO(0)/m/n/12 Ka-- 52 “Aligator” to rosyjski śmigłowiec szturmo
+wy dwumiejscowy, opracowany przez
+ []
+
+
+Underfull \hbox (badness 4013) in paragraph at lines 4081--4092
+\TU/LinuxLibertineO(0)/m/n/12 cechą konstrukcyjną jest układ dwóch współosiowyc
+h wirników przeciwbieżnych —
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[95
+
+]
+Underfull \hbox (badness 2020) in paragraph at lines 4134--4139
+\TU/LinuxLibertineO(0)/m/n/12 unikatowa i natychmiast widoczna cecha. Ka-- 52 n
+ie ma wirnika ogonowego —
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[96]
+Underfull \hbox (badness 2617) in paragraph at lines 4158--4162
+[]\TU/LinuxLibertineO(0)/b/n/12 Działko 30 mm z prawej strony nosa: \TU/LinuxLi
+bertineO(0)/m/n/12 Ruchoma wieżyczka z działkiem 2A42
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 4158--4162
+\TU/LinuxLibertineO(0)/m/n/12 zamontowana jest po prawej stronie przedniej częś
+ci kadłuba — asymetryczne
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[97]
+File: ../images/lotnictwo/su-25_1.jpg Graphic file (type bmp)
+<../images/lotnictwo/su-25_1.jpg>
+File: ../images/lotnictwo/su-25_2.jpg Graphic file (type bmp)
+<../images/lotnictwo/su-25_2.jpg>
+
+Underfull \hbox (badness 1371) in paragraph at lines 4185--4196
+\TU/LinuxLibertineO(0)/m/n/12 Su-- 25 “Gracz” (ros. Грач — kawka) to radziecki/
+rosyjski samolot szturmowy bliskiego
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[98
+
+]
+Underfull \hbox (badness 1845) in paragraph at lines 4244--4249
+[]\TU/LinuxLibertineO(0)/b/n/12 Dwa silniki odrzutowe po bokach kadłuba — “pacz
+ki” gondol: \TU/LinuxLibertineO(0)/m/n/12 Su-- 25 ma dwa
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 4264--4268
+[]\TU/LinuxLibertineO(0)/b/n/12 Tytanowy “kocioł” w okolicach kabiny: \TU/Linux
+LibertineO(0)/m/n/12 Grube opancerzenie wokół kokpitu jest
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[99]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[100]
+File: ../images/lotnictwo/su-27_1.jpg Graphic file (type bmp)
+<../images/lotnictwo/su-27_1.jpg>
+File: ../images/lotnictwo/su-27_2.jpg Graphic file (type bmp)
+<../images/lotnictwo/su-27_2.jpg>
+
+Underfull \hbox (badness 4001) in paragraph at lines 4291--4301
+\TU/LinuxLibertineO(0)/m/n/12 Su-- 27 “Flanker” to radziecki/rosyjski myśliwiec
+ czwartej generacji, opracowany jako
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[101
+
+]
+Underfull \hbox (badness 3838) in paragraph at lines 4365--4370
+[]\TU/LinuxLibertineO(0)/b/n/12 Wloty powietrza z przodu pod kadłubem: \TU/Linu
+xLibertineO(0)/m/n/12 Dwa prostokątne wloty powietrza
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 4365--4370
+\TU/LinuxLibertineO(0)/m/n/12 umieszczone symetrycznie pod kadłubem między siln
+ikami a krawędzią natarcia
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 4378--4385
+[]\TU/LinuxLibertineO(0)/m/n/12 Na pokazach lotniczych Su-- 27 zasłynął manewre
+m “kobra Pugaczowa” —
+ []
+
+
+Underfull \hbox (badness 2173) in paragraph at lines 4378--4385
+\TU/LinuxLibertineO(0)/m/n/12 pilotowanym przez Wiktora Pugaczowa na Paris Air 
+Show w 1989 roku.
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 4378--4385
+\TU/LinuxLibertineO(0)/m/n/12 do zera i wraca do lotu poziomego, zachowując w p
+rzybliżeniu trajektorię
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 4378--4385
+\TU/LinuxLibertineO(0)/m/n/12 tego manewru, co wywarło ogromne wrażenie na zach
+odniej publiczności
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[102]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[103]
+File: ../images/karabiny/ak-74_1.jpg Graphic file (type bmp)
+<../images/karabiny/ak-74_1.jpg>
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[104
+
+]
+Underfull \hbox (badness 4441) in paragraph at lines 4462--4466
+\TU/LinuxLibertineO(0)/m/n/12 kolbę składaną w bok (nie jak AKM — drewniana lub
+ składana ku dołowi)
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 4474--4481
+\TU/LinuxLibertineO(0)/m/n/12 kalibru. Właściwość ta była w sowieckim projekcie
+ zamierzona i od razu
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[105]
+Underfull \hbox (badness 4582) in paragraph at lines 4493--4503
+\TU/LinuxLibertineO(0)/m/n/12 kolbą i krótką lufą (212 mm zamiast 415 mm), zapr
+ojektowana w 1977 roku dla
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 4493--4503
+\TU/LinuxLibertineO(0)/m/n/12 służb specjalnych, kierowców pojazdów bojowych, o
+bsługi sprzętu artyleryjskiego i sił
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 4493--4503
+\TU/LinuxLibertineO(0)/m/n/12 złożoną) czynią ją idealną bronią osobistą tam, g
+dzie pełnowymiarowy karabin byłby
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[106
+
+]
+Underfull \hbox (badness 2529) in paragraph at lines 4554--4558
+[]\TU/LinuxLibertineO(0)/b/n/12 Wyraźnie krótszy od jakiegokolwiek pełnowymiaro
+wego AK: \TU/LinuxLibertineO(0)/m/n/12 z kolbą złożoną
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 4566--4573
+\TU/LinuxLibertineO(0)/m/n/12 krótki cykl pracy gazów. Afgańscy mudżahedini zdo
+bywając AKS-- 74U na
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[107]
+File: ../images/karabiny/akm_1.jpg Graphic file (type bmp)
+<../images/karabiny/akm_1.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 4590--4601
+\TU/LinuxLibertineO(0)/m/n/12 AKM (Awtomat Kałasznikowa Modernizirowannyj — Zmo
+dernizowany Automat
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[108
+
+]
+Underfull \hbox (badness 1354) in paragraph at lines 4634--4639
+\TU/LinuxLibertineO(0)/m/n/12 kompensator na końcu lufy (ścięcie pod kątem ~45°
+) — żaden inny AK nie ma
+ []
+
+
+Underfull \hbox (badness 5771) in paragraph at lines 4639--4644
+[]\TU/LinuxLibertineO(0)/b/n/12 Czarny lub drewniany kolba i łoże w kolorze dre
+wna: \TU/LinuxLibertineO(0)/m/n/12 standardowy AKM
+ []
+
+
+Underfull \hbox (badness 1509) in paragraph at lines 4639--4644
+\TU/LinuxLibertineO(0)/m/n/12 ma drewniane elementy (kolba, łoże, chwyt) w kolo
+rze naturalnego drewna lub
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 4653--4658
+[]\TU/LinuxLibertineO(0)/b/n/12 Blachownica tłoczona z widocznymi wytłoczeniami
+: \TU/LinuxLibertineO(0)/m/n/12 pudło zamkowe AKM ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[109]
+File: ../images/karabiny/ak-12_1.jpg Graphic file (type bmp)
+<../images/karabiny/ak-12_1.jpg>
+
+Underfull \hbox (badness 1221) in paragraph at lines 4690--4700
+\TU/LinuxLibertineO(0)/m/n/12 AK-- 12 to rosyjski karabin szturmowy piątej gene
+racji rodziny Kałasznikowa, oficjalnie
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 4690--4700
+\TU/LinuxLibertineO(0)/m/n/12 i po bokach, ambidekstralne sterowanie, wolnopływ
+ającą lufę dla lepszej celności oraz
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[110
+
+]
+Underfull \hbox (badness 2556) in paragraph at lines 4751--4755
+[]\TU/LinuxLibertineO(0)/b/n/12 Wolnopływająca lufa i krótszy hamulec wylotowy:
+ \TU/LinuxLibertineO(0)/m/n/12 hamulec wylotowy AK-- 12
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[111]
+Underfull \hbox (badness 5817) in paragraph at lines 4834--4838
+[]\TU/LinuxLibertineO(0)/b/n/12 Hamulec wylotowy taki sam jak AK-- 74M: \TU/Lin
+uxLibertineO(0)/m/n/12 na końcu lufy AK-- 103 widnieje
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[112
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4854--4861
+[]\TU/LinuxLibertineO(0)/m/n/12 AK-- 103 był pierwszym karabinem Kałasznikowa
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[113]
+Underfull \hbox (badness 3250) in paragraph at lines 4922--4926
+\TU/LinuxLibertineO(0)/m/n/12 magazynek AK-- 15 jest zbliżony kształtem do maga
+zynka AKM, ale wykonany
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[114
+
+]
+Underfull \hbox (badness 2828) in paragraph at lines 4948--4954
+\TU/LinuxLibertineO(0)/m/n/12 przestawienia się na kaliber 5,45 mm — argumentuj
+ąc, że nabój 7,62×39
+ []
+
+
+Underfull \hbox (badness 6775) in paragraph at lines 4948--4954
+\TU/LinuxLibertineO(0)/m/n/12 mm ma lepszą zdolność penetracji ścian, samochodó
+w i lekkich osłon
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 4948--4954
+\TU/LinuxLibertineO(0)/m/n/12 balistycznych. W rezultacie Rosjanie utrzymują dw
+a równoległe standardy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[115]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[116
+
+]
+Underfull \hbox (badness 3872) in paragraph at lines 5034--5039
+\TU/LinuxLibertineO(0)/m/n/12 używać specjalnego dwukomorowego magazynka 60-- n
+abojowego (dwie komory
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 5047--5056
+\TU/LinuxLibertineO(0)/m/n/12 Jednak armia rosyjska nigdy nie zamawiała go maso
+wo — między innymi
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 5047--5056
+\TU/LinuxLibertineO(0)/m/n/12 dlatego, że AN-- 94 jest 6 razy droższy w produkc
+ji niż AK-- 74 i wymaga
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 5047--5056
+\TU/LinuxLibertineO(0)/m/n/12 polowy jest praktycznie niemożliwy bez warsztatow
+ych narzędzi. Żołnierze
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[117]
+Underfull \hbox (badness 10000) in paragraph at lines 5116--5121
+[]\TU/LinuxLibertineO(0)/b/n/12 Prosty, klasyczny układ podobny do AK
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[118
+
+]
+Underfull \hbox (badness 2096) in paragraph at lines 5121--5125
+[]\TU/LinuxLibertineO(0)/b/n/12 Kolba rurowa lub teleskopowa — inna geometria n
+iż AK-- 74M: \TU/LinuxLibertineO(0)/m/n/12 AEK-- 971 miał
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 5125--5129
+[]\TU/LinuxLibertineO(0)/b/n/12 Hamulec wylotowy w kształcie “klatki” (cage-- s
+tyle): \TU/LinuxLibertineO(0)/m/n/12 A-545 wyposażony jest
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[119]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[120
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5219--5223
+[]\TU/LinuxLibertineO(0)/b/n/12 Krótkie, masywne łoże bez wyraźnego odcięcia: \
+TU/LinuxLibertineO(0)/m/n/12 SR-- 3 ma bardzo
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 5228--5231
+\TU/LinuxLibertineO(0)/m/n/12 bloku gazownika z muszką ponad lufą; układ jest u
+proszczony, a muszka siedzi
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[121]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[122
+
+]
+Underfull \hbox (badness 2318) in paragraph at lines 5312--5317
+[]\TU/LinuxLibertineO(0)/b/n/12 Różnica wobec VSS Wintorez — brak gniazda optyk
+i i inny chwyt: \TU/LinuxLibertineO(0)/m/n/12 VSS ma
+ []
+
+
+Underfull \hbox (badness 2426) in paragraph at lines 5330--5339
+\TU/LinuxLibertineO(0)/m/n/12 Broń zyskała zainteresowanie zachodnie po jej zdo
+byciu na polach bitew
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[123]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[124
+
+]
+Underfull \hbox (badness 1721) in paragraph at lines 5407--5411
+[]\TU/LinuxLibertineO(0)/b/n/12 Szerszy trzon kolby i płetwowata stopka: \TU/Li
+nuxLibertineO(0)/m/n/12 stopka kolby RPK jest szersza i ma
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 5423--5430
+[]\TU/LinuxLibertineO(0)/m/n/12 RPK trafił do Wietnamu Północnego przed RPK-- 7
+4 — i stał się najczęściej
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 5423--5430
+\TU/LinuxLibertineO(0)/m/n/12 stosowaną bronią wsparcia piechoty Viet Congu. Żo
+łnierze amerykańscy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[125]
+Underfull \hbox (badness 1231) in paragraph at lines 5442--5452
+\TU/LinuxLibertineO(0)/m/n/12 szyny Picatinny, regulowaną kolbę, nowoczesne łoż
+e i poprawiony system oddechowy
+ []
+
+
+Underfull \hbox (badness 3579) in paragraph at lines 5442--5452
+\TU/LinuxLibertineO(0)/m/n/12 lufy. Wyposażony w pojemnik taśmowy (kaseta 200 n
+abojów) zamiast tradycyjnych
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 5490--5494
+[]\TU/LinuxLibertineO(0)/b/n/12 Nowoczesna ergonomia: szyny Picatinny, regulowa
+na kolba, uchwyt kątowy:
+ []
+
+
+Underfull \hbox (badness 2671) in paragraph at lines 5490--5494
+\TU/LinuxLibertineO(0)/m/n/12 RPL-- 20 ma wygląd nowoczesnej zachodniej broni w
+sparcia — szyny na całym
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[126
+
+]
+Underfull \hbox (badness 3375) in paragraph at lines 5504--5509
+\TU/LinuxLibertineO(0)/m/n/12 pokryty czarnym polimerowym łożem z szynami — żad
+nych drewnianych lub
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 5518--5526
+[]\TU/LinuxLibertineO(0)/m/n/12 RPL-- 20 jest pierwszą rosyjską bronią wsparcia
+ piechoty zaprojektowaną od
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[127]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[128
+
+]
+Underfull \hbox (badness 1975) in paragraph at lines 5620--5629
+\TU/LinuxLibertineO(0)/m/n/12 armia miała planów. Najsłynniejsze zdjęcie PKM to
+ karabin zamontowany
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[129]
+Underfull \hbox (badness 2698) in paragraph at lines 5641--5651
+\TU/LinuxLibertineO(0)/m/n/12 i przyjęty do służby w 1999 roku jako modernizacj
+a PKM. Wyróżnia się systemem
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 5693--5698
+[]\TU/LinuxLibertineO(0)/b/n/12 Uchwyt przedni pionowy pod lufą (bipod jest tu 
+przeniesiony): \TU/LinuxLibertineO(0)/m/n/12 Pieczenieg ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[130
+
+]
+Underfull \hbox (badness 2809) in paragraph at lines 5716--5725
+\TU/LinuxLibertineO(0)/m/n/12 zdaniem — nowy km miał być tak nieustępliwy w wal
+ce jak starożytni
+ []
+
+
+Underfull \hbox (badness 3168) in paragraph at lines 5716--5725
+\TU/LinuxLibertineO(0)/m/n/12 długich zasadzek mogli prowadzić nieprzerwany ogi
+eń przez kilkadziesiąt
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[131]
+Underfull \hbox (badness 1584) in paragraph at lines 5737--5747
+\TU/LinuxLibertineO(0)/m/n/12 DShK (Дегтярёв-- Szpagin Крупнокалиберный) to rad
+ziecki ciężki karabin maszynowy
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 5737--5747
+\TU/LinuxLibertineO(0)/m/n/12 kalibru 12,7×108 mm zaprojektowany przez Wasilija
+ Diegtiarjewa i Gieorgija Szpagina
+ []
+
+
+Underfull \hbox (badness 1270) in paragraph at lines 5737--5747
+\TU/LinuxLibertineO(0)/m/n/12 służbie w dziesiątkach armii i ruchów zbrojnych n
+a całym świecie — od Afganistanu
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 5737--5747
+\TU/LinuxLibertineO(0)/m/n/12 przez Afrykę po Ukrainę. Używa potężnego naboju 1
+2,7×108 mm zdolnego do rażenia
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 5737--5747
+\TU/LinuxLibertineO(0)/m/n/12 jest montowany na trójnodze naziemnym, pojazdach 
+(technicals, opancerzone pojazdy)
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 5787--5791
+[]\TU/LinuxLibertineO(0)/b/n/12 Bardzo masywny i długi — wyraźnie archaiczna, g
+ruba sylwetka: \TU/LinuxLibertineO(0)/m/n/12 DShK ma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5791--5796
+[]\TU/LinuxLibertineO(0)/b/n/12 Żebra chłodzące
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[132
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5796--5801
+[]\TU/LinuxLibertineO(0)/b/n/12 Duży okrągły hamulec wylotowy w kształcie
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5807--5811
+[]\TU/LinuxLibertineO(0)/b/n/12 Podajnik taśmy wychodzący z lewej
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[133]
+Underfull \hbox (badness 1052) in paragraph at lines 5841--5851
+\TU/LinuxLibertineO(0)/m/n/12 NSW (НСВ — Nikitin-- Sokolov-- Wołkow) Utes (Утёс
+ — Klif) to radziecki ciężki karabin
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 5889--5893
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczny podajnik taśmy z lewej — okrą
+gły mechanizm: \TU/LinuxLibertineO(0)/m/n/12 mechanizm
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[134
+
+]
+Underfull \hbox (badness 1158) in paragraph at lines 5917--5925
+\TU/LinuxLibertineO(0)/m/n/12 Degtiariewa” — łamiąc monopol, który Diegtiariów 
+miał na sowiecką broń
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[135]
+Underfull \hbox (badness 1874) in paragraph at lines 5937--5946
+\TU/LinuxLibertineO(0)/m/n/12 Kord (6П50) to rosyjski ciężki karabin maszynowy 
+kalibru 12,7×108 mm opracowany
+ []
+
+
+Underfull \hbox (badness 5133) in paragraph at lines 5979--5984
+[]\TU/LinuxLibertineO(0)/b/n/12 Nowoczesny, kanciasty hamulec wylotowy w kształ
+cie “skrzynki”: \TU/LinuxLibertineO(0)/m/n/12 Kord ma
+ []
+
+
+Underfull \hbox (badness 3179) in paragraph at lines 5979--5984
+\TU/LinuxLibertineO(0)/m/n/12 charakterystyczny prostokątny wielokomorowy hamul
+ec wylotowy — kanciasty,
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[136
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 5993--5998
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczna pełna osłona lufy z otworami:
+ \TU/LinuxLibertineO(0)/m/n/12 nad lufą Kord
+ []
+
+
+Underfull \hbox (badness 1558) in paragraph at lines 6012--6020
+\TU/LinuxLibertineO(0)/m/n/12 obsługiwana przez jedną osobę w polu — bez rozkła
+dania trójnogu, przez
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[137]
+Underfull \hbox (badness 2495) in paragraph at lines 6032--6042
+\TU/LinuxLibertineO(0)/m/n/12 GRU i sił specjalnych. Jest siostrzaną bronią AS 
+Val — używa identycznego naboju
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 6032--6042
+\TU/LinuxLibertineO(0)/m/n/12 w walizce dyplomatycznej lub plecaku w ciągu 60 s
+ekund. Celownik PSO-- 1-- 1 lub
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 6079--6084
+\TU/LinuxLibertineO(0)/m/n/12 optycznego na górze komory zamkowej; standardowy 
+PSO-- 1-- 1 lub noktowizyjny
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[138
+
+]
+Underfull \hbox (badness 1838) in paragraph at lines 6106--6114
+\TU/LinuxLibertineO(0)/m/n/12 wojskowych ZSRR. Broń była tak ściśle klasyfikowa
+na, że nawet rosyjscy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[139]
+Underfull \hbox (badness 1881) in paragraph at lines 6127--6138
+\TU/LinuxLibertineO(0)/m/n/12 karabin snajperski kalibru 7,62×54R mm zaprojekto
+wany przez Jewgienija Dragunowa
+ []
+
+
+Underfull \hbox (badness 2460) in paragraph at lines 6127--6138
+\TU/LinuxLibertineO(0)/m/n/12 armie ponad 50 państw. SVD wyróżnia się gazową au
+tomatyką umożliwiającą ogień
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 6181--6185
+[]\TU/LinuxLibertineO(0)/b/n/12 Celownik PSO-- 1 (lub PSO-- 4) na bocznej szyni
+e — zielony metalowy korpus:
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 6181--6185
+\TU/LinuxLibertineO(0)/m/n/12 metalowym tubusem montowanym na bocznej szynie po
+ lewej stronie komory
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[140
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[141]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[142
+
+]
+Underfull \hbox (badness 1688) in paragraph at lines 6287--6290
+[]\TU/LinuxLibertineO(0)/b/n/12 Podłużny hamulec wylotowy w kształcie “walca”: 
+\TU/LinuxLibertineO(0)/m/n/12 SV-- 98 ma charakterystyczny
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 6295--6303
+[]\TU/LinuxLibertineO(0)/m/n/12 SV-- 98 zdobył popularność po tym, jak rosyjski
+e siły specjalne użyły go
+ []
+
+
+Underfull \hbox (badness 2351) in paragraph at lines 6295--6303
+\TU/LinuxLibertineO(0)/m/n/12 podczas oblężenia szkoły w Biesłanie w 2004 roku 
+— i po raz pierwszy
+ []
+
+
+Underfull \hbox (badness 1082) in paragraph at lines 6295--6303
+\TU/LinuxLibertineO(0)/m/n/12 oficjalnie użyto go w tak nagłośnionej operacji. 
+Dziennikarze fotografowali
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[143]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[144
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[145]
+Underfull \hbox (badness 1248) in paragraph at lines 6410--6420
+\TU/LinuxLibertineO(0)/m/n/12 12,7×108 mm opracowany przez ZID w Kowrowie i prz
+yjęty do służby w 2002 roku.
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[146
+
+]
+Underfull \hbox (badness 1163) in paragraph at lines 6486--6494
+\TU/LinuxLibertineO(0)/m/n/12 OSV-- 96 ma składaną lufę i jest wygodniejszy w t
+ransporcie. Paradoksalnie
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[147]
+Underfull \hbox (badness 1038) in paragraph at lines 6559--6562
+[]\TU/LinuxLibertineO(0)/b/n/12 Duży hamulec wylotowy cylinder-- klatkowy na ko
+ńcu długiej lufy: \TU/LinuxLibertineO(0)/m/n/12 OSV-- 96 ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[148
+
+]
+Underfull \hbox (badness 1540) in paragraph at lines 6562--6567
+[]\TU/LinuxLibertineO(0)/b/n/12 Półautomatyczny — widoczna rura gazowa nad lufą
+: \TU/LinuxLibertineO(0)/m/n/12 OSV-- 96 jest gaz-- operated
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 6562--6567
+\TU/LinuxLibertineO(0)/m/n/12 (semi-- auto) — ma charakterystyczną rurę gazową 
+biegnącą nad lufą, jak karabin
+ []
+
+
+Underfull \hbox (badness 4686) in paragraph at lines 6581--6589
+[]\TU/LinuxLibertineO(0)/m/n/12 OSV-- 96 stał się znany w Polsce za sprawą kont
+rowersyjnego zdarzenia
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 6581--6589
+\TU/LinuxLibertineO(0)/m/n/12 przez Warszawę w walizce dyplomatycznej (zasłysza
+ne z wywiadowczych
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[149]
+Underfull \hbox (badness 5924) in paragraph at lines 6602--6612
+\TU/LinuxLibertineO(0)/m/n/12 snajperski opracowany przez Lobaev Arms (Moskwa) 
+jako platforma do strzelania
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 6645--6650
+\TU/LinuxLibertineO(0)/m/n/12 ma nowoczesne aluminiowe chassis z pełnymi szynam
+i jak zachodnie platformy
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 6650--6655
+\TU/LinuxLibertineO(0)/m/n/12 wielokomorowym hamulcem wylotowym jest proporcjon
+alnie najdłuższa spośród
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[150
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[151]
+Underfull \hbox (badness 1142) in paragraph at lines 6755--6759
+\TU/LinuxLibertineO(0)/m/n/12 RPG-- 7 ma charakterystyczny rozszerzony stożek (
+do redukcji odrzutu gazów); ta
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[152
+
+]
+Underfull \hbox (badness 7796) in paragraph at lines 6770--6775
+[]\TU/LinuxLibertineO(0)/b/n/12 Klasyczny celownik optyczny PGO-- 7 z lewej str
+ony: \TU/LinuxLibertineO(0)/m/n/12 granatnik RPG-- 7 ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[153]
+Underfull \hbox (badness 1168) in paragraph at lines 6805--6816
+\TU/LinuxLibertineO(0)/m/n/12 RPG-- 18 Mucha (Муха — Mucha) to radziecki jednor
+azowy granatnik przeciwpancerny
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 6805--6816
+\TU/LinuxLibertineO(0)/m/n/12 i umocnień polowych. Wycofywany przez nowsze RPG-
+- 22, RPG-- 26, RPG-- 27, ale wciąż
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6858--6863
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak widocznego celownika
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[154
+
+]
+Underfull \hbox (badness 1975) in paragraph at lines 6868--6873
+[]\TU/LinuxLibertineO(0)/b/n/12 Jednorazowy — po strzale wyrzucana pusta tubus:
+ \TU/LinuxLibertineO(0)/m/n/12 jak wszystkie jednorazowe
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 6868--6873
+\TU/LinuxLibertineO(0)/m/n/12 granatniki — po strzale tubus jest wyrzucana; str
+zelec nie nosi jej po strzale;
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[155]
+Underfull \hbox (badness 1237) in paragraph at lines 6902--6910
+\TU/LinuxLibertineO(0)/m/n/12 RPG-- 22 Netto (Нетто) to radziecki jednorazowy g
+ranatnik rakietowy kalibru 72,5 mm
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 6902--6910
+\TU/LinuxLibertineO(0)/m/n/12 Stosowany przez armie byłego ZSRR; wycofywany prz
+ez RPG-- 26 i RPG-- 27, ale wciąż
+ []
+
+
+Underfull \hbox (badness 2662) in paragraph at lines 6956--6961
+[]\TU/LinuxLibertineO(0)/b/n/12 Wyraźnie prostszy mechanizm obsługi niż RPG-- 2
+6: \TU/LinuxLibertineO(0)/m/n/12 RPG-- 22 wymaga ręcznego
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[156
+
+]
+Underfull \hbox (badness 1546) in paragraph at lines 6974--6981
+[]\TU/LinuxLibertineO(0)/m/n/12 RPG-- 22 pojawił się w Afganistanie w 1981 roku
+ i był pierwszą radziecką
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[157]
+Underfull \hbox (badness 1953) in paragraph at lines 7041--7045
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczny mały wizjer z przeziernikiem 
+— bardziej rozbudowany niż
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[158
+
+]
+Underfull \hbox (badness 1168) in paragraph at lines 7068--7076
+\TU/LinuxLibertineO(0)/m/n/12 RPG-- 18 i RPG-- 22 — co daje obraz, jak powszech
+na jest jednorazowa broń
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[159]
+Underfull \hbox (badness 10000) in paragraph at lines 7136--7140
+[]\TU/LinuxLibertineO(0)/b/n/12 Jednorazowy — brak składanej lufy (w odróżnieni
+u od
+ []
+
+
+Underfull \hbox (badness 7832) in paragraph at lines 7145--7150
+[]\TU/LinuxLibertineO(0)/b/n/12 Tandemowa głowica — dwa złączone stożki “nosa” 
+pocisku: \TU/LinuxLibertineO(0)/m/n/12 pocisk PG-- 27
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[160
+
+]
+Underfull \hbox (badness 1014) in paragraph at lines 7162--7171
+\TU/LinuxLibertineO(0)/m/n/12 pancerza reaktywnego ERA — co w 1990 roku było re
+wolucją. Dotychczas
+ []
+
+
+Underfull \hbox (badness 5064) in paragraph at lines 7162--7171
+\TU/LinuxLibertineO(0)/m/n/12 z ERA; żołnierz musiał używać wielokrotnego użytk
+u RPG-- 7 z głowicą
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[161]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[162
+
+]
+Underfull \hbox (badness 4132) in paragraph at lines 7241--7246
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczny tandemowy pocisk PG-- 29V: \T
+U/LinuxLibertineO(0)/m/n/12 głowica PG-- 29V ma widoczną
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 7259--7268
+[]\TU/LinuxLibertineO(0)/m/n/12 W 2006 roku podczas drugiej wojny libańskiej He
+zbollah użył RPG-- 29 do
+ []
+
+
+Underfull \hbox (badness 1189) in paragraph at lines 7259--7268
+\TU/LinuxLibertineO(0)/m/n/12 — i natychmiast wszczęła dochodzenie, jak broń ta
+k nowa i rzadka trafiła
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 7259--7268
+\TU/LinuxLibertineO(0)/m/n/12 do Hezbollahu. Ustalono, że Syria i Iran przekaza
+ły RPG-- 29 jako “prezent”
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[163]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[164
+
+]
+Underfull \hbox (badness 1264) in paragraph at lines 7342--7347
+[]\TU/LinuxLibertineO(0)/b/n/12 Bardzo rzadki na polach walki — broń specjalist
+yczna: \TU/LinuxLibertineO(0)/m/n/12 RPG-- 30 jest kosztowny
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 7342--7347
+\TU/LinuxLibertineO(0)/m/n/12 jednostkę lub szczególnie wyposażoną piechotę; w 
+masowej piechoty nie jest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7347--7350
+[]\TU/LinuxLibertineO(0)/b/n/12 Nowoczesne, obłe kształty obudowy — “taktyczny”
+ wygląd: \TU/LinuxLibertineO(0)/m/n/12 RPG-- 30 ma
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 7355--7364
+[]\TU/LinuxLibertineO(0)/m/n/12 RPG-- 30 jest odpowiedzią na systemy aktywnej o
+chrony czołgów takie jak
+ []
+
+
+Underfull \hbox (badness 2229) in paragraph at lines 7355--7364
+\TU/LinuxLibertineO(0)/m/n/12 imitację (prosta i tania), aby “zużyć” system och
+rony zanim trafi główna
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[165]
+Underfull \hbox (badness 1728) in paragraph at lines 7377--7387
+\TU/LinuxLibertineO(0)/m/n/12 RPG-- 32 Hashim (Хашим — arabskie imię) to rosyjs
+ko-- jordański modułowy granatnik
+ []
+
+
+Underfull \hbox (badness 1681) in paragraph at lines 7377--7387
+\TU/LinuxLibertineO(0)/m/n/12 przypadek wspólnej produkcji z arabskim krajem. M
+oże być używany zarówno przez
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[166
+
+]
+Underfull \hbox (badness 1917) in paragraph at lines 7441--7446
+\TU/LinuxLibertineO(0)/m/n/12 modułowy celownik z możliwością montażu celownika
+ noktowizyjnego; bardziej
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 7454--7463
+[]\TU/LinuxLibertineO(0)/m/n/12 RPG-- 32 jest pierwszą rosyjską bronią wyproduk
+owaną oficjalnie za granicą
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[167]
+Underfull \hbox (badness 2865) in paragraph at lines 7522--7528
+[]\TU/LinuxLibertineO(0)/b/n/12 Tępa, cylindryczna głowica bez piezoelektryczne
+go nosa: \TU/LinuxLibertineO(0)/m/n/12 głowice HEAT mają
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[168
+
+]
+Underfull \hbox (badness 1735) in paragraph at lines 7550--7559
+\TU/LinuxLibertineO(0)/m/n/12 w przestrzeni zamkniętej eliminuje siłę żywą bez 
+konieczności wejścia do
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 7550--7559
+\TU/LinuxLibertineO(0)/m/n/12 w zamkniętych schronach. Human Rights Watch udoku
+mentowało użycie
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[169]
+Underfull \hbox (badness 10000) in paragraph at lines 7571--7581
+\TU/LinuxLibertineO(0)/m/n/12 RPO-- A Szmiel (Шмель — Trzmiel) to radziecko-- r
+osyjski jednorazowy granatnik
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[170
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[171]
+Underfull \hbox (badness 1681) in paragraph at lines 7668--7678
+\TU/LinuxLibertineO(0)/m/n/12 MRO-- A Bur (Бур — Wiertło) to rosyjski jednorazo
+wy lekki granatnik termobaryczny
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[172
+
+]
+Underfull \hbox (badness 3872) in paragraph at lines 7725--7728
+[]\TU/LinuxLibertineO(0)/b/n/12 Żółte lub pomarańczowe markings na tubie — stan
+dard termobaryczny: \TU/LinuxLibertineO(0)/m/n/12 jak
+ []
+
+
+Underfull \hbox (badness 2573) in paragraph at lines 7741--7750
+[]\TU/LinuxLibertineO(0)/m/n/12 Bur stał się ikoną rosyjskiej taktyki piechoty 
+szturmowej na Ukrainie —
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 7741--7750
+\TU/LinuxLibertineO(0)/m/n/12 filmiki z żołnierzami szturmującymi budynki z kil
+koma Burami naraz były
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 7741--7750
+\TU/LinuxLibertineO(0)/m/n/12 powszechnie udostępniane na rosyjskich prowojenny
+ch kanałach Telegram.
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 7741--7750
+\TU/LinuxLibertineO(0)/m/n/12 piwniczne stawały się niebezpieczne ze względu na
+ falę ciśnienia. Bur jest
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[173]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[174
+
+]
+Underfull \hbox (badness 1365) in paragraph at lines 7820--7825
+\TU/LinuxLibertineO(0)/m/n/12 rura pod i nieco przed uchwytem karabinu; proporc
+je zestaw “AK + GP-- 25” są
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[175]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[176
+
+]
+Underfull \hbox (badness 4341) in paragraph at lines 7920--7925
+[]\TU/LinuxLibertineO(0)/b/n/12 Montaż kompatybilny z AK-- 74M i nowszymi AK: \
+TU/LinuxLibertineO(0)/m/n/12 GP-- 30 jest standardowym
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[177]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[178
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[179]
+Underfull \hbox (badness 1221) in paragraph at lines 8095--8100
+\TU/LinuxLibertineO(0)/m/n/12 charakterystyczny “pudełkowy” kształt komory zamk
+owej i korpusu; przypomina
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 8095--8100
+\TU/LinuxLibertineO(0)/m/n/12 bardziej maszynę przemysłową niż typowy karabin; 
+ten geometryczny, kanciasty
+ []
+
+
+Underfull \hbox (badness 1389) in paragraph at lines 8101--8105
+[]\TU/LinuxLibertineO(0)/b/n/12 Trójnóg z regulacją wysokości — stalowe nogi o 
+“pajęczym” układzie: \TU/LinuxLibertineO(0)/m/n/12 trójnóg
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[180
+
+]
+Underfull \hbox (badness 1097) in paragraph at lines 8123--8131
+\TU/LinuxLibertineO(0)/m/n/12 strzelał jak moździerz, rażąc cele za wzniesienia
+mi terenu. Ten pomysłowy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[181]
+Underfull \hbox (badness 2644) in paragraph at lines 8189--8194
+\TU/LinuxLibertineO(0)/m/n/12 z taśmą) zamiast okrągłego bębna AGS-- 17; brak c
+harakterystycznego okrągłego
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 8194--8198
+[]\TU/LinuxLibertineO(0)/b/n/12 Bardziej opływowy, nowocześniejszy wygląd komor
+y zamkowej: \TU/LinuxLibertineO(0)/m/n/12 AGS-- 30 ma
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 8194--8198
+\TU/LinuxLibertineO(0)/m/n/12 nowocześniejszy, mniej “pudełkowaty” kształt niż 
+AGS-- 17; sylwetka jest bardziej
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[182
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[183]
+Underfull \hbox (badness 5787) in paragraph at lines 8279--8284
+[]\TU/LinuxLibertineO(0)/b/n/12 Nowoczesny wygląd — kanciasty, taktyczny design
+ z szynami: \TU/LinuxLibertineO(0)/m/n/12 AGS-- 40 ma
+ []
+
+
+Underfull \hbox (badness 4995) in paragraph at lines 8279--8284
+\TU/LinuxLibertineO(0)/m/n/12 nowoczesny wygląd z szynami Picatinny i ergonomic
+znym łożem — bardziej
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[184
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8308--8317
+[]\TU/LinuxLibertineO(0)/m/n/12 AGS-- 40 Bałkan jest pierwszym rosyjskim
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[185]
+Underfull \hbox (badness 4193) in paragraph at lines 8328--8338
+\TU/LinuxLibertineO(0)/m/n/12 GM-- 94 to rosyjski rewolwerowy granatnik pompowy
+ (pump-- action) kalibru 43 mm
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 8328--8338
+\TU/LinuxLibertineO(0)/m/n/12 opracowany przez KBP w Tule i przyjęty do służby 
+w 1994 roku dla FSB, jednostek
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 8328--8338
+\TU/LinuxLibertineO(0)/m/n/12 chemiczną (drażniąca), dymną, gumową (nieśmiertel
+na) i odłamkową. Ruch pompowy
+ []
+
+
+Underfull \hbox (badness 6428) in paragraph at lines 8375--8380
+\TU/LinuxLibertineO(0)/m/n/12 okrągły magazynek-- bęben z 3 nabojami widoczny p
+od rurą; ruch pompowy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[186
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 8405--8413
+\TU/LinuxLibertineO(0)/m/n/12 był testowany
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[187]
+Underfull \hbox (badness 2189) in paragraph at lines 8467--8471
+[]\TU/LinuxLibertineO(0)/b/n/12 Mała, kompaktowa sylwetka — wyraźnie mniejszy o
+d MP-- 443 i TT: \TU/LinuxLibertineO(0)/m/n/12 PM jest
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[188
+
+]
+Underfull \hbox (badness 1303) in paragraph at lines 8498--8506
+\TU/LinuxLibertineO(0)/m/n/12 PM przez dekady. CIA miała zapasy PM “do operacji
+ pod fałszywą flagą”.
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[189]
+Underfull \hbox (badness 1102) in paragraph at lines 8571--8576
+[]\TU/LinuxLibertineO(0)/b/n/12 Płaskie, drewniane lub bakelitowe okładziny chw
+ytu: \TU/LinuxLibertineO(0)/m/n/12 TT ma charakterystyczne
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[190
+
+]
+Underfull \hbox (badness 2119) in paragraph at lines 8577--8581
+[]\TU/LinuxLibertineO(0)/b/n/12 Wyraźna linia “zamka” (slide) biegąca poziomo w
+zdłuż górnej części: \TU/LinuxLibertineO(0)/m/n/12 TT ma
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 8595--8603
+[]\TU/LinuxLibertineO(0)/m/n/12 TT zyskał niechlubną sławę jako “ulubiony pisto
+let przestępców” w Rosji
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 8595--8603
+\TU/LinuxLibertineO(0)/m/n/12 i krajach byłego ZSRR lat 90. — bo był tani, dost
+ępny na czarnym rynku
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[191]
+Underfull \hbox (badness 3343) in paragraph at lines 8616--8627
+\TU/LinuxLibertineO(0)/m/n/12 APS (Автоматический Пистолет Стечкина — Automatyc
+zny Pistolet Stieczkina) to
+ []
+
+
+Underfull \hbox (badness 4832) in paragraph at lines 8616--8627
+\TU/LinuxLibertineO(0)/m/n/12 radziecki pistolet maszynowy-- pistolet kalibru 9
+×18 mm zaprojektowany przez Igora
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 8616--8627
+\TU/LinuxLibertineO(0)/m/n/12 automatycznego (750 strz./min) przy użyciu odpina
+nej kolby-- kabury jako stabilizatora.
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 8616--8627
+\TU/LinuxLibertineO(0)/m/n/12 Magazynek 20-- nabojowy i ogień automatyczny czyn
+ią z APS broń pośrednią między
+ []
+
+
+Underfull \hbox (badness 4254) in paragraph at lines 8666--8670
+[]\TU/LinuxLibertineO(0)/b/n/12 Dźwignia trybu ognia (selektywny ogień) po lewe
+j stronie slajdu: \TU/LinuxLibertineO(0)/m/n/12 APS ma
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 8670--8676
+[]\TU/LinuxLibertineO(0)/b/n/12 Odpinaną kolba-- kabura z tyłu chwytu: \TU/Linu
+xLibertineO(0)/m/n/12 APS jest dostarczany z drewnianą lub
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[192
+
+]
+Underfull \hbox (badness 1158) in paragraph at lines 8695--8703
+[]\TU/LinuxLibertineO(0)/m/n/12 APS jest jedynym pistoletem, który armia radzie
+cka oficjalnie wycofała i…
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[193]
+Underfull \hbox (badness 1127) in paragraph at lines 8714--8724
+\TU/LinuxLibertineO(0)/m/n/12 PB (Пистолет Бесшумный — Pistolet Bezgłośny, ozna
+czenie GRAU: 6P9) to radziecki
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 8714--8724
+\TU/LinuxLibertineO(0)/m/n/12 PM i przyjęty do służby w 1967 roku dla KGB i GRU
+. Wyróżnia się zintegrowanym
+ []
+
+
+Underfull \hbox (badness 2213) in paragraph at lines 8758--8763
+[]\TU/LinuxLibertineO(0)/b/n/12 Widoczna “szczelina” w ramie z lewej strony — w
+ewnętrzny tłumik: \TU/LinuxLibertineO(0)/m/n/12 PB ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[194
+
+]
+Underfull \hbox (badness 4072) in paragraph at lines 8791--8799
+\TU/LinuxLibertineO(0)/m/n/12 w Afganistanie — żołnierze Specnaz GRU przeznacze
+ni do eliminowania
+ []
+
+
+Underfull \hbox (badness 2538) in paragraph at lines 8791--8799
+\TU/LinuxLibertineO(0)/m/n/12 mudżahedińskich dowódców nosili PB jako broń “ost
+ateczności”. Afgański
+ []
+
+
+Underfull \hbox (badness 2717) in paragraph at lines 8791--8799
+\TU/LinuxLibertineO(0)/m/n/12 w grubych ubraniach zimowych. Dlatego w Afganista
+nie Specnaz szybko
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[195]
+Underfull \hbox (badness 10000) in paragraph at lines 8810--8820
+\TU/LinuxLibertineO(0)/m/n/12 PSM (Пистолет Самозарядный Малогабаритный —
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8864--8868
+[]\TU/LinuxLibertineO(0)/b/n/12 Prostokątny, “tabliczkowy” kształt — bez żadnyc
+h zaokrągleń: \TU/LinuxLibertineO(0)/m/n/12 PSM
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[196
+
+]
+Underfull \hbox (badness 1189) in paragraph at lines 8873--8878
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak zewnętrznego kurka (hammer-- less lub inte
+rnal): \TU/LinuxLibertineO(0)/m/n/12 PSM nie ma widocznego
+ []
+
+
+Underfull \hbox (badness 1789) in paragraph at lines 8886--8894
+[]\TU/LinuxLibertineO(0)/m/n/12 PSM był przez lata pistoletem, którego zachodni
+ agenci wywiadu bali się
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[197]
+Underfull \hbox (badness 1418) in paragraph at lines 8905--8915
+\TU/LinuxLibertineO(0)/m/n/12 samopowtarzalny kalibru 9×19 mm Parabellum opraco
+wany przez Władimira Yarygina
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 8948--8952
+[]\TU/LinuxLibertineO(0)/b/n/12 Wyraźnie większy i masywniejszy od PM — “nowocz
+esny policyjny” wygląd:
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[198
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[199]
+Underfull \hbox (badness 2035) in paragraph at lines 9002--9012
+\TU/LinuxLibertineO(0)/m/n/12 kamizelki balistyczne klasy III A na 10 m — co cz
+yni GSz-- 18 jednym z najbardziej
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[200
+
+]
+Underfull \hbox (badness 1389) in paragraph at lines 9064--9069
+[]\TU/LinuxLibertineO(0)/b/n/12 Magazynek 18-- nabojowy — wyraźnie duże pudełko
+ magazynka: \TU/LinuxLibertineO(0)/m/n/12 magazynek na
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 9064--9069
+\TU/LinuxLibertineO(0)/m/n/12 odpowiednio szeroki — widoczna przy magazynku o d
+użej pojemności szerokość
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 9077--9085
+\TU/LinuxLibertineO(0)/m/n/12 zdolnych do przebicia standardowych kamizelek bal
+istycznych NATO klasy
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[201]
+Underfull \hbox (badness 1248) in paragraph at lines 9096--9106
+\TU/LinuxLibertineO(0)/m/n/12 — Samopowtarzalny Pistolet Sierdiukowa), to rosyj
+ski pistolet kalibru 9×21 mm SP-- 10
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 9148--9152
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczny zewnętrzny kurek zaokrąglony 
+(bobbed hammer): \TU/LinuxLibertineO(0)/m/n/12 SR-- 1 ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[202
+
+]
+Underfull \hbox (badness 1057) in paragraph at lines 9163--9166
+[]\TU/LinuxLibertineO(0)/b/n/12 Złożona gumowa lub polimerowa okładzina chwytu:
+ \TU/LinuxLibertineO(0)/m/n/12 okładziny chwytu SR-- 1 są
+ []
+
+
+Underfull \hbox (badness 4060) in paragraph at lines 9163--9166
+\TU/LinuxLibertineO(0)/m/n/12 ergonomiczne z gumowymi wstawkami antypoślizgowym
+i; nowoczesny wygląd
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 9171--9180
+\TU/LinuxLibertineO(0)/m/n/12 wojnie z eksplicytnym wymaganiem “przebij kamizel
+kę IIIA”. Projektanci
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[203]
+Underfull \hbox (badness 6625) in paragraph at lines 9192--9202
+\TU/LinuxLibertineO(0)/m/n/12 kalibru 9×18 mm Makarov opracowany przez KBP w Tu
+le i przyjęty do służby
+ []
+
+
+Underfull \hbox (badness 3108) in paragraph at lines 9192--9202
+\TU/LinuxLibertineO(0)/m/n/12 z tyłu) pozwala na celny ogień automatyczny. OTs-
+- 33 jest bronią przeznaczoną dla
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[204
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[205]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[206
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 9365--9374
+[]\TU/LinuxLibertineO(0)/m/n/12 OTs-- 23 Drotik był projektowany jako alternaty
+wa dla
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[207]
+Underfull \hbox (badness 1189) in paragraph at lines 9386--9396
+\TU/LinuxLibertineO(0)/m/n/12 zabudowanym i obsługi pojazdów. Szybkostrzelność 
+1000 strz./min i magazynek 20–30
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[208
+
+]
+Underfull \hbox (badness 7291) in paragraph at lines 9453--9456
+[]\TU/LinuxLibertineO(0)/b/n/12 Stosowany przez policję w cywilnym otoczeniu — 
+widoczny na zdjęciach
+ []
+
+
+Underfull \hbox (badness 1715) in paragraph at lines 9453--9456
+\TU/LinuxLibertineO(0)/b/n/12 funkcjonariuszy: \TU/LinuxLibertineO(0)/m/n/12 Ke
+dr pojawia się głównie u rosyjskich policjantów, strażników
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 9461--9470
+[]\TU/LinuxLibertineO(0)/m/n/12 PP-- 91 Kedr zyskał sławę po tym, jak stał się 
+standardowym uzbrojeniem
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 9461--9470
+\TU/LinuxLibertineO(0)/m/n/12 rosyjskich ochroniarzy VIP i policji ochrony osob
+istej w burzliwych latach
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[209]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[210
+
+]
+Underfull \hbox (badness 1024) in paragraph at lines 9544--9548
+\TU/LinuxLibertineO(0)/m/n/12 (semi/auto/bezpiecznik) widoczny po lewej; wygląd
+ nowocześniejszy od starszych
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[211]
+Underfull \hbox (badness 1675) in paragraph at lines 9577--9587
+\TU/LinuxLibertineO(0)/m/n/12 się wyjątkowo płaskim profilem (21 mm grubości), 
+ergonomicznym chwytem, stałymi
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 9626--9631
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak zewnętrznego kurka — striker-- fired hamme
+rless: \TU/LinuxLibertineO(0)/m/n/12 PL-- 14/15 nie ma kurka
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[212
+
+]
+Underfull \hbox (badness 1038) in paragraph at lines 9647--9651
+\TU/LinuxLibertineO(0)/m/n/12 zachodnioeuropejski pistolet premium bardziej niż
+ tradycyjny rosyjski projekt; ta
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[213]
+Underfull \hbox (badness 2020) in paragraph at lines 9725--9730
+[]\TU/LinuxLibertineO(0)/b/n/12 Igłowe pociski SPS — wyjątkowo długie i cienkie
+: \TU/LinuxLibertineO(0)/m/n/12 pociski SPS mają 120 mm
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[214
+
+]
+Underfull \hbox (badness 1552) in paragraph at lines 9740--9745
+\TU/LinuxLibertineO(0)/m/n/12 się tylko na fotografiach wojsk podwodnych lub pr
+ezentacjach specjalistycznego
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 9753--9761
+[]\TU/LinuxLibertineO(0)/m/n/12 SPP-- 1M jest bronią tak niszową, że przez deka
+dy zachodnie wywiady nie
+ []
+
+
+Underfull \hbox (badness 1406) in paragraph at lines 9753--9761
+\TU/LinuxLibertineO(0)/m/n/12 były pewne jej istnienia — sowieccy płetwonurkowi
+e Spetsnaz używali jej
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 9753--9761
+\TU/LinuxLibertineO(0)/m/n/12 arsenał broni podwodnej (SPP-- 1M na pistolet, AP
+S na karabin szturmowy,
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[215]
+Underfull \hbox (badness 1097) in paragraph at lines 9821--9826
+[]\TU/LinuxLibertineO(0)/b/n/12 Igłowe pociski 5,66 mm widoczne w magazynku: \T
+U/LinuxLibertineO(0)/m/n/12 magazynek APS podwodnego
+ []
+
+
+Underfull \hbox (badness 3746) in paragraph at lines 9826--9830
+[]\TU/LinuxLibertineO(0)/b/n/12 Brak gazownika i innych typowych elementów AK: 
+\TU/LinuxLibertineO(0)/m/n/12 APS podwodny nie ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[216
+
+]
+Underfull \hbox (badness 1838) in paragraph at lines 9835--9840
+[]\TU/LinuxLibertineO(0)/b/n/12 Broń widoczna wyłącznie u płetwonurków bojowych
+: \TU/LinuxLibertineO(0)/m/n/12 APS podwodny pojawia
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 9835--9840
+\TU/LinuxLibertineO(0)/m/n/12 się wyłącznie w kontekście jednostek podwodnych S
+petsnaz; widok tej broni na
+ []
+
+
+Underfull \hbox (badness 1286) in paragraph at lines 9849--9859
+\TU/LinuxLibertineO(0)/m/n/12 byli zdumieni: nikt nie wiedział, że Sowieci mają
+ kompletny system broni
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[217]
+Underfull \hbox (badness 2469) in paragraph at lines 9870--9881
+\TU/LinuxLibertineO(0)/m/n/12 ręczny z żeliwną obudową rowkowaną, opracowany w 
+ZSRR w latach 40. na bazie
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 9870--9881
+\TU/LinuxLibertineO(0)/m/n/12 do rażenia na duże odległości. F-- 1 używa standa
+rdowego zapalnika UZRGM (3,2–4,2 s
+ []
+
+
+Underfull \hbox (badness 2556) in paragraph at lines 9913--9918
+\TU/LinuxLibertineO(0)/m/n/12 kratkę “ananasową”; RGD-- 5 jest gładki; ta rowko
+wana faktura jest absolutnym
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[218
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[219]
+Underfull \hbox (badness 5331) in paragraph at lines 9966--9976
+\TU/LinuxLibertineO(0)/m/n/12 RGD-- 5 (Ручная Граnatа Дистанционная-- 5) to rad
+ziecki odłamkowy granat ręczny
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10018--10022
+[]\TU/LinuxLibertineO(0)/b/n/12 Zapalnik UZRGM z metalową
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[220
+
+]
+Underfull \hbox (badness 2941) in paragraph at lines 10041--10049
+\TU/LinuxLibertineO(0)/m/n/12 W rezultacie w Afganistanie wprowadzono obowiązek
+ noszenia granatów
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[221]
+Underfull \hbox (badness 10000) in paragraph at lines 10103--10109
+[]\TU/LinuxLibertineO(0)/b/n/12 Aluminiowa obudowa w dwóch kształtach ze szwem 
+pośrodku: \TU/LinuxLibertineO(0)/m/n/12 RGN
+ []
+
+
+Underfull \hbox (badness 5077) in paragraph at lines 10114--10118
+[]\TU/LinuxLibertineO(0)/b/n/12 Aluminiowy matowy kolor — srebrzysto-- szary za
+miast stalowego zielonego:
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 10114--10118
+\TU/LinuxLibertineO(0)/m/n/12 RGN jest z aluminium; kolor jest srebrzysto-- sza
+ry lub ciemnoszary z matowym
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[222
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[223]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[224
+
+]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[225]
+Underfull \hbox (badness 1147) in paragraph at lines 10302--10307
+[]\TU/LinuxLibertineO(0)/b/n/12 Stabilizator paraszutowy — charakterystyczny “b
+aldachim” po rzucie: \TU/LinuxLibertineO(0)/m/n/12 po rzucie
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[226
+
+]
+Underfull \hbox (badness 2894) in paragraph at lines 10331--10340
+[]\TU/LinuxLibertineO(0)/m/n/12 RKG-- 3 zyskała nowe “życie” w Iraku w 2004–200
+8 roku, gdy bojownicy
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 10331--10340
+\TU/LinuxLibertineO(0)/m/n/12 americańskie Hummee i MRAP. Granaty stabilizowane
+ paraszutem trafiały
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 10331--10340
+\TU/LinuxLibertineO(0)/m/n/12 przyspieszyły montaż klatek ochronnych (slat armo
+r) na pojazdach, które
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[227]
+Underfull \hbox (badness 1062) in paragraph at lines 10395--10400
+\TU/LinuxLibertineO(0)/b/n/12 napędową: \TU/LinuxLibertineO(0)/m/n/12 VOG-- 25 
+jest dwuczłonowy — głowica z ładunkiem i część napędowa
+ []
+
+
+Underfull \hbox (badness 2111) in paragraph at lines 10406--10411
+[]\TU/LinuxLibertineO(0)/b/n/12 Żółty lub żółto-- zielony kolor głowicy — stand
+ardowe oznaczenie odłamkowe:
+ []
+
+
+Underfull \hbox (badness 4072) in paragraph at lines 10406--10411
+\TU/LinuxLibertineO(0)/m/n/12 (podskakująca) często ma inne oznaczenie kolorem;
+ żółta barwa amunicji jest
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[228
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10416--10421
+[]\TU/LinuxLibertineO(0)/b/n/12 Para: żołnierz z AK
+ []
+
+
+Underfull \hbox (badness 3199) in paragraph at lines 10422--10425
+\TU/LinuxLibertineO(0)/m/n/12 nad ziemią po odbiciu — taktycznie bardzo różna o
+d standardowego VOG-- 25;
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[229]
+Underfull \hbox (badness 2735) in paragraph at lines 10450--10461
+\TU/LinuxLibertineO(0)/m/n/12 PMN (Противопехотная Мина Нажимная — Przeciwpiech
+otna Mina Naciskowa) to
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 10450--10461
+\TU/LinuxLibertineO(0)/m/n/12 radziecka nacisgowa mina przeciwpiechotna z okrąg
+łą gumową pokrywą naciskową,
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 10450--10461
+\TU/LinuxLibertineO(0)/m/n/12 ma plastikową obudowę trudniejszą do wykrycia met
+alodektorem. Szeroko stosowana
+ []
+
+
+Underfull \hbox (badness 4168) in paragraph at lines 10493--10497
+[]\TU/LinuxLibertineO(0)/b/n/12 Okrągła czarna gumowa pokrywa naciskowa — chara
+kterystyczny “gumowy
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 10497--10501
+[]\TU/LinuxLibertineO(0)/b/n/12 Okrągła, płaska forma — “blaszka w ziemi”: \TU/
+LinuxLibertineO(0)/m/n/12 cała PMN jest niska i okrągła;
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 10497--10501
+\TU/LinuxLibertineO(0)/m/n/12 przy częściowym wyrzuceniu z ziemi lub na powierz
+chni widoczny jest okrągły
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[230
+
+]
+Underfull \hbox (badness 1629) in paragraph at lines 10506--10511
+\TU/LinuxLibertineO(0)/m/n/12 wzrokiem; widoczna jedynie po charakterystycznym 
+“zaokrąglonym wzniesieniu”
+ []
+
+
+Underfull \hbox (badness 1237) in paragraph at lines 10517--10520
+[]\TU/LinuxLibertineO(0)/b/n/12 Zakopana kilka cm — odkrywana przez saperów z w
+ykrywaczami metalu lub
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 10525--10534
+\TU/LinuxLibertineO(0)/m/n/12 Action (organizacja rozminowywania) szacuje, że d
+o 2020 roku w samym
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[231]
+Underfull \hbox (badness 1097) in paragraph at lines 10545--10555
+\TU/LinuxLibertineO(0)/m/n/12 PMN-- 2 to radziecka modernizacja miny PMN, oprac
+owana w 1979 roku, wyróżniająca
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 10587--10592
+\TU/LinuxLibertineO(0)/m/n/12 ma plastikową obudowę w kolorze szarobeżowym, jas
+nooliwkowym lub jasnym
+ []
+
+
+Underfull \hbox (badness 3503) in paragraph at lines 10598--10602
+[]\TU/LinuxLibertineO(0)/b/n/12 Plastikowa obudowa — “matowy plastik” zamiast “
+błyszczący metal”: \TU/LinuxLibertineO(0)/m/n/12 PMN-- 2
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[232
+
+]
+Underfull \hbox (badness 1635) in paragraph at lines 10621--10630
+[]\TU/LinuxLibertineO(0)/m/n/12 PMN-- 2 jest jedną z broni, których pojawienie 
+się w Afganistanie w 1979
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 10621--10630
+\TU/LinuxLibertineO(0)/m/n/12 roku spowodowało pilną rewizję standardów sapersk
+ich NATO. Do 1979
+ []
+
+
+Underfull \hbox (badness 1412) in paragraph at lines 10621--10630
+\TU/LinuxLibertineO(0)/m/n/12 roku standardowy metalodetektor był uważany za wy
+starczający sprzęt do
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[233]
+Underfull \hbox (badness 1776) in paragraph at lines 10642--10653
+\TU/LinuxLibertineO(0)/m/n/12 i są częściowo absorbowane przez grunt). OZM-- 72
+ jest jedną z najgroźniejszych min
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 10695--10700
+\TU/LinuxLibertineO(0)/m/n/12 którą można zaobserwować (przy dużym szczęściu lu
+b na nagraniach): OZM-- 72
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[234
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10719--10728
+\TU/LinuxLibertineO(0)/m/n/12 stosowana
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[235]
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[236
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10798--10803
+[]\TU/LinuxLibertineO(0)/b/n/12 Cylindryczna forma z “kapslem” i małą antenką n
+a górze: \TU/LinuxLibertineO(0)/m/n/12 POM-- 2
+ []
+
+
+Underfull \hbox (badness 4467) in paragraph at lines 10809--10814
+[]\TU/LinuxLibertineO(0)/b/n/12 Autodestrukcja (teoretyczna) — praktycznie zawo
+dna: \TU/LinuxLibertineO(0)/m/n/12 POM-- 2 ma mechanizm
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 10809--10814
+\TU/LinuxLibertineO(0)/m/n/12 autodestrukcji, ale Human Rights Watch dokumentuj
+e przypadki, gdzie > 30%
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 10809--10814
+\TU/LinuxLibertineO(0)/m/n/12 egzemplarzy nie uległo autodestrukcji w czasie; t
+eren zaminowany POM-- 2 jest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10819--10828
+[]\TU/LinuxLibertineO(0)/m/n/12 POM-- 2 jest jedną z min, którą
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[237]
+Underfull \hbox (badness 1062) in paragraph at lines 10839--10851
+\TU/LinuxLibertineO(0)/m/n/12 Używana masowo w Afganistanie, Angoli, Mozambiku 
+i Syrii — i uznawana za jedną
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[238
+
+]
+Underfull \hbox (badness 1783) in paragraph at lines 10899--10904
+\TU/LinuxLibertineO(0)/m/n/12 standardowe metalodektory są przy niej bezużytecz
+ne; do wykrywania potrzeba
+ []
+
+
+Underfull \hbox (badness 7433) in paragraph at lines 10917--10927
+[]\TU/LinuxLibertineO(0)/m/n/12 PFM-- 1 “Motyl” stała się symbolem jednej z naj
+większych kontrowersji
+ []
+
+
+Underfull \hbox (badness 3590) in paragraph at lines 10917--10927
+\TU/LinuxLibertineO(0)/m/n/12 humanitarnych zimnej wojny. W Afganistanie radzie
+ckie śmigłowce Mi-- 8
+ []
+
+
+Underfull \hbox (badness 1867) in paragraph at lines 10917--10927
+\TU/LinuxLibertineO(0)/m/n/12 tej taktyki mieszania z zabawkami, ale odniesieni
+ach afgańskich ocalałych
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[239]
+Underfull \hbox (badness 10000) in paragraph at lines 10938--10949
+\TU/LinuxLibertineO(0)/m/n/12 MON-- 50 (Мина Осколочная Направленного действия-
+- 50 — Mina Odłamkowa
+ []
+
+
+Underfull \hbox (badness 4531) in paragraph at lines 10988--10993
+\TU/LinuxLibertineO(0)/m/n/12 MON-- 50 ma wygrawerowany napis na wypukłej stron
+ie wskazujący kierunek
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[240
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 10993--10998
+[]\TU/LinuxLibertineO(0)/b/n/12 Cztery nóżki ze skręcanymi kołkami do montażu
+ []
+
+
+Underfull \hbox (badness 6792) in paragraph at lines 10998--11003
+\TU/LinuxLibertineO(0)/m/n/12 elektrycznie ma charakterystyczny kabel elektrycz
+ny wychodzący z boku ku
+ []
+
+
+Underfull \hbox (badness 1755) in paragraph at lines 11016--11025
+\TU/LinuxLibertineO(0)/m/n/12 zimnej wojny obie strony zakładały u siebie zdoby
+czne miny przeciwnika
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[241]
+Underfull \hbox (badness 1502) in paragraph at lines 11036--11046
+\TU/LinuxLibertineO(0)/m/n/12 MON-- 100 (Мина Осколочная Направленного действия
+-- 100) to radziecka duża mina
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 11079--11084
+\TU/LinuxLibertineO(0)/m/n/12 wygląda jak okrągła “tarcza” lub “fryzbee”; ten o
+krągły kształt jest pierwszym
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[242
+
+]
+Underfull \hbox (badness 3439) in paragraph at lines 11103--11106
+[]\TU/LinuxLibertineO(0)/b/n/12 Napis cyrylicą na stronie rażenia — identycznie
+ jak MON-- 50: \TU/LinuxLibertineO(0)/m/n/12 MON-- 100 ma
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11111--11119
+[]\TU/LinuxLibertineO(0)/m/n/12 MON-- 100 jest uznawana za “myśliwską” wersję m
+iny kierunkowej —
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[243]
+Underfull \hbox (badness 1810) in paragraph at lines 11176--11181
+[]\TU/LinuxLibertineO(0)/b/n/12 Stalowa obudowa z charakterystycznym żebrowanie
+m lub wzorem: \TU/LinuxLibertineO(0)/m/n/12 TM-- 57 ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[244
+
+]
+Underfull \hbox (badness 1484) in paragraph at lines 11203--11212
+\TU/LinuxLibertineO(0)/m/n/12 do niezawodnego zniszczenia ciężkich czołgów amer
+ykańskich M60 i M48.
+ []
+
+
+Underfull \hbox (badness 3668) in paragraph at lines 11203--11212
+\TU/LinuxLibertineO(0)/m/n/12 parametry całej rodziny TM-- 57/TM-- 62 i jest el
+eganckim przykładem, jak
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[245]
+Underfull \hbox (badness 1648) in paragraph at lines 11223--11233
+\TU/LinuxLibertineO(0)/m/n/12 TM-- 62M (Танковая Мина-- 62М — Mina Czołgowa-- 6
+2M) to radziecka nacisgowa mina
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[246
+
+]
+Underfull \hbox (badness 1721) in paragraph at lines 11290--11293
+[]\TU/LinuxLibertineO(0)/b/n/12 Okrągły kształt z dwiema symetrycznie rozmieszc
+zonymi dziurami (zapalniki):
+ []
+
+
+Underfull \hbox (badness 6110) in paragraph at lines 11298--11306
+[]\TU/LinuxLibertineO(0)/m/n/12 TM-- 62P (plastikowa) jest uważana za jeden z n
+ajwiększych problemów
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[247]
+Underfull \hbox (badness 1735) in paragraph at lines 11317--11328
+\TU/LinuxLibertineO(0)/m/n/12 autodestrukcji (po 16–24 godzinach lub 40 dniach 
+w zależności od ustawienia) — co
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11360--11364
+[]\TU/LinuxLibertineO(0)/b/n/12 Płaska, dyskoidalna
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[248
+
+]
+Underfull \hbox (badness 1975) in paragraph at lines 11385--11389
+[]\TU/LinuxLibertineO(0)/b/n/12 Autodestrukcja po określonym czasie — (teoretyc
+znie) ograniczone zagrożenie
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 11385--11389
+\TU/LinuxLibertineO(0)/m/n/12 często zawodzi, pozostawiając aktywne miny na dłu
+go; zachodnie organizacje
+ []
+
+
+Underfull \hbox (badness 2142) in paragraph at lines 11394--11403
+\TU/LinuxLibertineO(0)/m/n/12 po upływie zadeklarowanego czasu. Rosja, podobnie
+ jak Ukraina, nie jest
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 11394--11403
+\TU/LinuxLibertineO(0)/m/n/12 “legalną” bronią wojskową w rosyjskiej doktrynie,
+ stosowaną masowo do
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[249]
+Underfull \hbox (badness 4832) in paragraph at lines 11414--11425
+\TU/LinuxLibertineO(0)/m/n/12 element minowy kasetowy — mały submunition odłamk
+owy rozsypywany z rakiet
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[250
+
+]
+Underfull \hbox (badness 3407) in paragraph at lines 11477--11481
+\TU/LinuxLibertineO(0)/m/n/12 Ukrainie zimą 2022–2023 KPOM-- 2 pokryte śniegiem
+ były niewidoczne; wiosną
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 11490--11499
+[]\TU/LinuxLibertineO(0)/m/n/12 KPOM-- 2 i inne submunitions kasetowe są temate
+m Konwencji o amunicji
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[251]
+Underfull \hbox (badness 4752) in paragraph at lines 11511--11521
+\TU/LinuxLibertineO(0)/m/n/12 UMZ (Универсальный Минный Заградитель — Universal
+ny Minny Zagraditiel —
+ []
+
+
+Underfull \hbox (badness 1163) in paragraph at lines 11511--11521
+\TU/LinuxLibertineO(0)/m/n/12 naziemnych, opracowany w latach 70. i przyjęty do
+ służby w 1978 roku. Montowany
+ []
+
+
+Underfull \hbox (badness 3098) in paragraph at lines 11511--11521
+\TU/LinuxLibertineO(0)/m/n/12 w ruchu — pojazd jadący z prędkością 30–40 km/h r
+ozsypuje miny z pojemników
+ []
+
+
+Underfull \hbox (badness 1014) in paragraph at lines 11553--11558
+[]\TU/LinuxLibertineO(0)/b/n/12 Charakterystyczne metalowe pojemniki-- zasobnik
+i na pace ciężarówki: \TU/LinuxLibertineO(0)/m/n/12 UMZ ma
+ []
+
+
+Underfull \hbox (badness 1515) in paragraph at lines 11553--11558
+\TU/LinuxLibertineO(0)/m/n/12 charakterystyczne 8 prostokątnych metalowych poje
+mników (zasobniki na miny)
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 11564--11569
+[]\TU/LinuxLibertineO(0)/b/n/12 Przewody sterowania i kable widoczne między poj
+emnikami: \TU/LinuxLibertineO(0)/m/n/12 zestaw UMZ ma
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[252
+
+]
+Underfull \hbox (badness 1259) in paragraph at lines 11588--11597
+[]\TU/LinuxLibertineO(0)/m/n/12 UMZ był jedną z pierwszych broni masowego zamin
+owania, którą Zachód
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[253]
+Underfull \hbox (badness 1365) in paragraph at lines 11657--11662
+[]\TU/LinuxLibertineO(0)/b/n/12 Włoskie oznaczenia lub “Valsella” na obudowie: 
+\TU/LinuxLibertineO(0)/m/n/12 na VS-- 50 czasem widoczne są
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11662--11666
+[]\TU/LinuxLibertineO(0)/b/n/12 Niemal “niewidoczna” dla metalodektora:
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[254
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 11681--11693
+[]\TU/LinuxLibertineO(0)/m/n/12 VS-- 50 jest paradoksalnym symbolem
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[255] (./debug.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `debug.out' has not changed.
+(rerunfilecheck)             Checksum: 145F9F4E42DEF265F607F7B7C2E63204;23579.
+ ) 
+Here is how much of TeX's memory you used:
+ 15290 strings out of 475821
+ 312493 string characters out of 5774783
+ 794764 words of memory out of 5000000
+ 37985 multiletter control sequences out of 15000+600000
+ 564637 words of font info for 76 fonts, out of 8000000 for 9000
+ 34 hyphenation exceptions out of 8191
+ 79i,12n,93p,1194b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on debug.pdf (259 pages).
