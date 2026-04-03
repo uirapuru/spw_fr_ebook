@@ -14,19 +14,27 @@
 - [T-90 — Czołg podstawowy T-90](czolgi/t-90.md)
 - [2S25 Sprut-SD — Niszczyciel czołgów (lekki czołg desantowy)](czolgi/2s25-sprut.md)
 
-## 2. Bojowe Wozy Piechoty (BWP)
+## 2. Bojowe Wozy Desantowe (BWD)
+
+- [BMD-1 — Bojowy wóz desantowy BMD-1](bwd/bmd-1.md)
+- [BMD-2 — Bojowy wóz desantowy BMD-2](bwd/bmd-2.md)
+- [BMD-3 — Bojowy wóz desantowy BMD-3](bwd/bmd-3.md)
+- [BMD-4 — Bojowy wóz desantowy BMD-4](bwd/bmd-4.md)
+
+## 3. Bojowe Wozy Piechoty (BWP)
 
 - [BMP-1 — Bojowy wóz piechoty BMP-1](bwp/bmp-1.md)
 - [BMP-2 — Bojowy wóz piechoty BMP-2](bwp/bmp-2.md)
 - [BMP-3 — Bojowy wóz piechoty BMP-3](bwp/bmp-3.md)
 
-## 3. Transportery opancerzone (APC)
+## 4. Transportery opancerzone (APC)
 
+- [MT-LB — Wielozadaniowy transporter opancerzony](apc/mt-lb.md)
 - [BTR-80 — Transporter opancerzony BTR-80](apc/btr-80.md)
 - [BTR-90 — Transporter opancerzony BTR-90](apc/btr-90.md)
 - [GAZ Tigr (MRAP) — Pojazd odporny na miny i zasadzki](apc/mrap.md)
 
-## 4. Artyleria samobieżna
+## 5. Artyleria samobieżna
 
 - [2S19 Msta-S — 152 mm armatohaubica samobieżna](artyleria_samobiezna/2s19-msta-s.md)
 - [2S1 Goździk — 122 mm haubica samobieżna](artyleria_samobiezna/2s1-gvozdika.md)
@@ -37,7 +45,7 @@
 - [2S4 Tulipan — 240 mm moździerz samobieżny](artyleria_samobiezna/2s4-tyulpan.md)
 - [2S40 Floks — 120 mm moździerz samobieżny](artyleria_samobiezna/2s40-floks.md)
 
-## 5. Artyleria holowana
+## 6. Artyleria holowana
 
 - [D-30 — 122 mm haubica holowana](artyleria_holowana/d-30.md)
 - [M-30 — 122 mm haubica holowana M1938](artyleria_holowana/m-30.md)
@@ -51,7 +59,7 @@
 - [2B14 Podnos — 82 mm moździerz piechoty](artyleria_holowana/2b14-podnos.md)
 - [2S12 Sani — 120 mm ciężki moździerz holowany](artyleria_holowana/2s12-sani.md)
 
-## 6. Systemy przeciwlotnicze
+## 7. Systemy przeciwlotnicze
 
 - [ZU-23-2 — Holowane działko przeciwlotnicze 23 mm](przeciwlotnicze/zu-23-2.md)
 - [ZSU-23-4 Szyłka — Samobieżne działko przeciwlotnicze 23 mm](przeciwlotnicze/zsu-23-4.md)
@@ -66,7 +74,7 @@
 - [9K38 Igła — Przenośny MANPADS](przeciwlotnicze/igla.md)
 - [9K333 Werba — Przenośny MANPADS nowej generacji](przeciwlotnicze/verba.md)
 
-## 7. Przeciwpancerne pociski kierowane (ATGM)
+## 8. Przeciwpancerne pociski kierowane (ATGM)
 
 - [9K111 Fagot — Przeciwpancerny pocisk kierowany](przeciwpancerne/fagot.md)
 - [9M113 Konkurs — Przeciwpancerny pocisk kierowany](przeciwpancerne/konkurs.md)
@@ -74,7 +82,7 @@
 - [9K115-2 Metis-M — Lekki ppk](przeciwpancerne/metis-m.md)
 - [9M133 Kornet — Przeciwpancerny pocisk kierowany](przeciwpancerne/kornet.md)
 
-## 8. Lotnictwo
+## 9. Lotnictwo
 
 - [Mi-24 Hind — Śmigłowiec szturmowy](lotnictwo/mi-24.md)
 - [Mi-28 Hawoc — Śmigłowiec szturmowy](lotnictwo/mi-28.md)
@@ -82,7 +90,7 @@
 - [Su-25 Frogfoot — Samolot szturmowy](lotnictwo/su-25.md)
 - [Su-27 Flanker — Myśliwiec przewagi powietrznej](lotnictwo/su-27.md)
 
-## 9. Karabiny szturmowe
+## 10. Karabiny szturmowe
 
 - [AK-74 — Karabin szturmowy 5,45 mm](karabiny/ak-74.md)
 - [AKS-74U Ksyucha — Skrócony karabin szturmowy](karabiny/aks-74u.md)
@@ -95,7 +103,7 @@
 - [SR-3 Wihr — Kompaktowy karabin szturmowy 9 mm](karabiny/sr-3.md)
 - [AS Val — Tłumiony karabin szturmowy 9 mm](karabiny/as-val.md)
 
-## 10. Karabiny maszynowe
+## 11. Karabiny maszynowe
 
 - [RPK — Ręczny karabin maszynowy 7,62 mm](karabiny_maszynowe/rpk.md)
 - [RPL-20 — Ręczny karabin maszynowy nowej generacji](karabiny_maszynowe/rpl-20.md)
@@ -105,7 +113,7 @@
 - [NSW Utes — Ciężki karabin maszynowy 12,7 mm](karabiny_maszynowe/nsv.md)
 - [Kord — Ciężki karabin maszynowy 12,7 mm](karabiny_maszynowe/kord.md)
 
-## 11. Karabiny snajperskie
+## 12. Karabiny snajperskie
 
 - [VSS Wintorez — Tłumiony karabin snajperski 9 mm](karabiny_snajperskie/vss-vintorez.md)
 - [SVD Dragunow — Karabin snajperski 7,62 mm](karabiny_snajperskie/svd.md)
@@ -115,7 +123,7 @@
 - [OSV-96 — Wielkokalibrowy karabin snajperski](karabiny_snajperskie/osv-96.md)
 - [Lobaev SVLK-14S Sumrak — Karabin snajperski dalekiego zasięgu](karabiny_snajperskie/lobaev.md)
 
-## 12. RPG i wyrzutnie rakietowe
+## 13. RPG i wyrzutnie rakietowe
 
 - [RPG-7 — Granatnik przeciwpancerny wielokrotnego użytku](rpg_wyrzutnie/rpg-7.md)
 - [RPG-18 Mucha — Jednorazowy granatnik 64 mm](rpg_wyrzutnie/rpg-18.md)
@@ -129,7 +137,7 @@
 - [RPO-A Szmiel — Wyrzutnia termobaryczna 93 mm](rpg_wyrzutnie/shmel.md)
 - [MRO-A Bur — Lekka wyrzutnia termobaryczna 72,5 mm](rpg_wyrzutnie/bur.md)
 
-## 13. Wyrzutnie granatów
+## 14. Wyrzutnie granatów
 
 - [GP-25 Kostior — Nasadkowy granatnik podlufowy](wyrzutnie_granatow/gp-25.md)
 - [GP-30 Obuwka — Nasadkowy granatnik podlufowy](wyrzutnie_granatow/gp-30.md)
@@ -139,7 +147,7 @@
 - [AGS-40 Bałkan — Automatyczny granatnik stanowiskowy 40 mm](wyrzutnie_granatow/agk-40.md)
 - [GM-94 — Rewolwerowy granatnik pump-action 43 mm](wyrzutnie_granatow/gm-94.md)
 
-## 14. Pistolety i pistolety maszynowe
+## 15. Pistolety i pistolety maszynowe
 
 - [PM Makarow — Pistolet 9×18 mm](pistolety_i_pm/pm.md)
 - [TT Tokariew — Pistolet 7,62 mm](pistolety_i_pm/tt.md)
@@ -157,7 +165,7 @@
 - [SPP-1M — Pistolet podwodny 4,5 mm](pistolety_i_pm/spp-1m.md)
 - [APS podwodny — Karabinek podwodny 5,66 mm](pistolety_i_pm/sps-underwater.md)
 
-## 15. Granaty ręczne
+## 16. Granaty ręczne
 
 - [F-1 Limonka — Granat defensywny odłamkowy](granaty_reczne/f-1.md)
 - [RGD-5 — Granat ofensywny odłamkowy](granaty_reczne/rgd-5.md)
@@ -166,7 +174,7 @@
 - [RKG-3 — Granat przeciwpancerny kumulacyjny](granaty_reczne/rkg-3.md)
 - [VOG-25 — Nabój do granatnika podlufowego 40 mm](granaty_reczne/vog-25.md)
 
-## 16. Miny
+## 17. Miny
 
 - [PMN — Mina nacisgowa przeciwpiechotna](miny/pmn.md)
 - [PMN-2 — Mina nacisgowa przeciwpiechotna (plastikowa)](miny/pmn-2.md)
@@ -181,6 +189,12 @@
 - [KPOM-2 — Kasetowy element minowy](miny/kpom-2.md)
 - [UMZ — Naziemny system rozsypywania min](miny/umz.md)
 - [VS-50 — Mina nacisgowa (plastikowa)](miny/vs-50.md)
+
+---
+
+## Dodatek: Źródła grafik
+
+- [Źródła grafik](zrodla_grafik.md) — lista wszystkich 143 obrazów z autorem, licencją i odnośnikiem do Wikimedia Commons
 
 ---
 
