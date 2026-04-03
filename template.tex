@@ -78,8 +78,9 @@
 \renewcommand{\cftsecpagefont}{\normalfont\fontsize{11pt}{13pt}\selectfont}
 \makeatletter
 \newcommand{\l@sectionheader}[2]{%
+  \needspace{3\baselineskip}%
   \addvspace{\baselineskip}%
-  {\bfseries #1\par}%
+  {\bfseries #1\par\nobreak}%
 }
 \makeatother
 
