@@ -46,6 +46,8 @@ spw_fr_ebook/
 
 Łącznie: **130 plików treści**, **138 obrazów**, **16 kategorii**, **143 hasła** (index.md liczy 143, spis_tresci.md jest autorytatywny).
 
+Historia zmian jest umieszczana na końcu e-booka, bezpośrednio przed sekcją źródeł grafik. O kolejności dodatków decyduje `spis_tresci.md`.
+
 ### Zawartość kategorii (stan kwiecień 2026)
 
 | # | Kategoria | Liczba | Hasła |
@@ -252,6 +254,8 @@ Wstaw po nagłówkach h1+h3, przed pierwszym `---`.
 
 Plik `changelog.md` musi być aktualizowany przy **każdej** zmianie w e-booku.
 
+W gotowym PDF/EPUB `changelog.md` trafia na **koniec e-booka, bezpośrednio przed `zrodla_grafik.md`**.
+
 **Reguła tego samego dnia:** jeśli data ostatniego wiersza w changelog == data dzisiejsza → dopisz opis do istniejącego wiersza (nie podbijaj wersji). Jeśli data jest starsza → dodaj nowy wiersz i podbij MINOR (np. 1.1 → 1.2).
 
 **Changelog dotyczy wyłącznie treści e-booka.** Zmiany w dokumentacji (INSTRUKCJA.md, skrypty, CLAUDE.md) nie są wpisywane.
@@ -274,6 +278,18 @@ Dodaj linię w odpowiedniej sekcji:
 
 ```markdown
 - [NAZWA — Opis](KATEGORIA/PLIK.md)
+```
+
+Na końcu pliku zachowaj kolejność dodatków:
+
+```markdown
+## Dodatek: Historia zmian
+
+- [Historia zmian](changelog.md)
+
+## Dodatek: Źródła grafik
+
+- [Źródła grafik](zrodla_grafik.md)
 ```
 
 ### 6b. Zaktualizuj zrodla_grafik.md (lista atrybucji grafik)

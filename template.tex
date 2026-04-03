@@ -76,6 +76,12 @@
 \renewcommand{\cfttoctitlefont}{\normalfont\Large}
 \renewcommand{\cftsecfont}{\normalfont\fontsize{11pt}{13pt}\selectfont}
 \renewcommand{\cftsecpagefont}{\normalfont\fontsize{11pt}{13pt}\selectfont}
+\makeatletter
+\newcommand{\l@sectionheader}[2]{%
+  \addvspace{\baselineskip}%
+  {\bfseries #1\par}%
+}
+\makeatother
 
 \usepackage{hyperref}
 \usepackage{etoolbox}
@@ -120,13 +126,7 @@ $endif$
     {\large $date$ \par}
 \end{titlepage}
 
-  \clearpage
-  \thispagestyle{empty}
-  $if(changelog_tex)$
-  \input{$changelog_tex$}
-  $endif$
-
-  \clearpage
+\clearpage
 \setcounter{tocdepth}{1}
 \tableofcontents
 

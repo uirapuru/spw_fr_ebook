@@ -217,6 +217,12 @@
 
 ---
 
+## Dodatek: Historia zmian
+
+- [Historia zmian](changelog.md) — rejestr zmian e-booka, umieszczony na końcu publikacji przed źródłami grafik
+
+---
+
 ## Dodatek: Źródła grafik
 
 - [Źródła grafik](zrodla_grafik.md) — lista wszystkich obrazów z autorem, licencją i odnośnikiem do Wikimedia Commons
